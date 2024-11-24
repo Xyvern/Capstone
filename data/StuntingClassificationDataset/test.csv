@@ -1,2421 +1,664 @@
 Umur (bulan),Jenis Kelamin,Tinggi Badan (cm),Status Gizi
-44,laki-laki,92.4,stunted
-52,perempuan,105.3,normal
-7,perempuan,78.3,tinggi
-13,laki-laki,68.2,severely stunted
-1,perempuan,67.1602918951035,tinggi
-21,laki-laki,97.0,tinggi
-9,perempuan,61.5,severely stunted
-13,perempuan,70.5,normal
-4,laki-laki,51.8,severely stunted
-36,perempuan,80.9,severely stunted
-10,laki-laki,67.2,stunted
-6,laki-laki,63.6,normal
-30,perempuan,81.7,stunted
-17,laki-laki,92.1,tinggi
-11,perempuan,75.9,normal
-46,perempuan,115.4,tinggi
-56,perempuan,117.5,normal
-38,perempuan,101.4,normal
-57,perempuan,115.9,normal
-4,laki-laki,75.8,tinggi
-23,laki-laki,75.0,severely stunted
-35,perempuan,106.3,tinggi
-10,perempuan,67.6,normal
-4,laki-laki,57.1,severely stunted
-31,perempuan,100.9,normal
-32,laki-laki,101.2,normal
-57,laki-laki,91.3,severely stunted
-54,laki-laki,114.1,normal
-59,laki-laki,93.5,severely stunted
-7,laki-laki,72.9,normal
-10,perempuan,63.3,severely stunted
-47,laki-laki,100.8,normal
-7,perempuan,59.1,severely stunted
-46,laki-laki,115.2,tinggi
-40,laki-laki,99.6,normal
-11,perempuan,79.4,normal
-11,laki-laki,65.8,severely stunted
-13,laki-laki,85.0,tinggi
-43,laki-laki,98.6,normal
-16,laki-laki,76.2,normal
-33,perempuan,107.2,tinggi
-34,laki-laki,103.2,normal
-48,perempuan,100.8,normal
-48,laki-laki,105.5,normal
-25,laki-laki,80.2,stunted
-58,perempuan,108.6,normal
-34,laki-laki,110.8,tinggi
-16,laki-laki,85.8,normal
-51,perempuan,114.9,normal
-22,perempuan,91.3,normal
-37,laki-laki,92.8,normal
-2,laki-laki,49.6979014858009,severely stunted
-47,laki-laki,111.0,normal
-21,perempuan,80.9,normal
-29,laki-laki,102.4,tinggi
-35,perempuan,109.3,tinggi
-36,perempuan,97.1,normal
-25,laki-laki,78.7,stunted
-41,perempuan,108.2,normal
-50,perempuan,113.1,normal
-30,laki-laki,89.0,normal
-16,perempuan,66.6,severely stunted
-41,perempuan,107.7,normal
-12,perempuan,77.9,normal
-1,perempuan,52.2715143572327,normal
-47,laki-laki,116.0,tinggi
-9,perempuan,61.0,severely stunted
-47,laki-laki,94.6,normal
-3,perempuan,72.8,tinggi
-10,laki-laki,86.5,tinggi
-14,perempuan,88.3,tinggi
-58,perempuan,125.5,tinggi
-5,perempuan,74.7,tinggi
-40,laki-laki,93.6,normal
-46,perempuan,108.8,normal
-29,perempuan,92.4,normal
-44,laki-laki,98.2,normal
-33,laki-laki,90.1,normal
-14,laki-laki,68.1,severely stunted
-27,laki-laki,84.8,normal
-25,laki-laki,99.7,tinggi
-35,laki-laki,88.4,normal
-0,laki-laki,58.815417959892,tinggi
-15,perempuan,68.3,severely stunted
-26,perempuan,82.5,normal
-5,perempuan,74.6,tinggi
-52,laki-laki,110.6,normal
-56,laki-laki,122.3,tinggi
-35,laki-laki,96.8,normal
-44,perempuan,86.2,severely stunted
-25,laki-laki,96.1,normal
-5,perempuan,52.9,severely stunted
-5,laki-laki,74.6,tinggi
-57,perempuan,126.0,tinggi
-32,perempuan,83.4,stunted
-59,laki-laki,116.7,normal
-36,perempuan,103.7,normal
-6,laki-laki,73.4,normal
-25,laki-laki,89.8,normal
-57,laki-laki,123.2,tinggi
-42,perempuan,88.3,stunted
-40,perempuan,94.0,normal
-1,laki-laki,63.7099834252059,tinggi
-22,laki-laki,86.5,normal
-46,perempuan,85.8,severely stunted
-24,laki-laki,88.0,normal
-38,laki-laki,82.6,severely stunted
-48,perempuan,117.3,tinggi
-46,perempuan,92.8,stunted
-18,perempuan,88.0,normal
-3,perempuan,50.3,severely stunted
-10,perempuan,65.5,stunted
-1,laki-laki,42.402993702529,severely stunted
-9,perempuan,59.5,severely stunted
-53,perempuan,113.6,normal
-60,laki-laki,119.9,normal
-25,perempuan,100.3,tinggi
-45,laki-laki,111.0,normal
-8,laki-laki,79.7,tinggi
-17,perempuan,84.6,normal
-54,laki-laki,115.9,normal
-45,perempuan,86.6,severely stunted
-40,perempuan,86.4,stunted
-52,perempuan,119.9,tinggi
-57,laki-laki,98.0,stunted
-5,perempuan,71.9,tinggi
-0,laki-laki,42.5918315541684,severely stunted
-5,laki-laki,77.6,tinggi
-5,laki-laki,62.8,normal
-60,perempuan,127.7,tinggi
-16,laki-laki,80.8,normal
-45,perempuan,101.5,normal
-2,perempuan,51.4526100225262,stunted
-12,laki-laki,83.8,tinggi
-28,laki-laki,103.7,tinggi
-58,laki-laki,109.3,normal
-45,laki-laki,91.4,stunted
-55,laki-laki,122.0,tinggi
-44,perempuan,115.4,tinggi
-45,laki-laki,104.7,normal
-17,perempuan,71.0,severely stunted
-37,perempuan,92.2,normal
-55,laki-laki,97.0,stunted
-5,laki-laki,57.3,severely stunted
-58,perempuan,126.0,tinggi
-42,laki-laki,112.9,tinggi
-28,laki-laki,100.6,tinggi
-24,laki-laki,91.0,normal
-18,perempuan,77.6,normal
-33,perempuan,81.3,severely stunted
-52,laki-laki,112.5,normal
-56,laki-laki,119.8,normal
-42,perempuan,85.9,severely stunted
-53,perempuan,112.3,normal
-52,perempuan,108.4,normal
-60,perempuan,115.8,normal
-44,perempuan,93.1,normal
-39,perempuan,95.4,normal
-38,laki-laki,108.1,normal
-19,laki-laki,80.5,normal
-51,laki-laki,104.5,normal
-14,laki-laki,85.9,tinggi
-59,laki-laki,99.3,stunted
-47,laki-laki,87.4,severely stunted
-39,laki-laki,100.8,normal
-8,laki-laki,69.3,normal
-37,perempuan,84.0,severely stunted
-36,laki-laki,87.0,stunted
-10,perempuan,62.2,severely stunted
-39,laki-laki,101.4,normal
-32,laki-laki,94.6,normal
-60,laki-laki,110.0,normal
-56,perempuan,96.1,stunted
-25,perempuan,89.5,normal
-24,laki-laki,87.9,normal
-24,perempuan,81.1,normal
-2,perempuan,48.7120456750612,severely stunted
-37,perempuan,88.2,normal
-45,perempuan,89.0,stunted
-18,perempuan,81.4,normal
-7,perempuan,77.3,tinggi
-57,laki-laki,91.9,severely stunted
-24,perempuan,80.6,normal
-8,laki-laki,66.0,stunted
-15,laki-laki,86.7,normal
-48,laki-laki,92.3,stunted
-42,perempuan,93.7,normal
-5,laki-laki,61.2,stunted
-56,perempuan,114.1,normal
-11,perempuan,70.4,normal
-14,laki-laki,77.9,normal
-3,laki-laki,71.8,tinggi
-20,perempuan,92.9,tinggi
-24,perempuan,78.0,stunted
-27,laki-laki,100.3,tinggi
-41,perempuan,113.1,tinggi
-15,perempuan,74.9,normal
-48,perempuan,115.6,normal
-23,laki-laki,85.1,normal
-13,perempuan,65.0,severely stunted
-50,laki-laki,95.1,stunted
-21,laki-laki,82.6,normal
-18,perempuan,73.8,stunted
-35,perempuan,96.6,normal
-36,perempuan,95.0,normal
-26,perempuan,97.4,normal
-28,laki-laki,94.5,normal
-40,laki-laki,109.1,normal
-21,laki-laki,95.0,tinggi
-48,laki-laki,117.0,tinggi
-50,perempuan,119.4,tinggi
-45,perempuan,113.8,tinggi
-48,laki-laki,104.3,normal
-20,perempuan,85.7,normal
-14,laki-laki,67.9,severely stunted
-42,perempuan,89.7,stunted
-42,perempuan,100.4,normal
-48,perempuan,118.6,tinggi
-25,laki-laki,82.2,normal
-30,perempuan,87.7,normal
-13,laki-laki,76.7,normal
-34,perempuan,96.9,normal
-29,laki-laki,96.6,normal
-43,laki-laki,84.4,severely stunted
-43,laki-laki,103.5,normal
-58,laki-laki,121.7,normal
-20,laki-laki,89.3,normal
-38,perempuan,84.0,severely stunted
-29,perempuan,92.5,normal
-44,perempuan,89.8,stunted
-42,laki-laki,88.1,stunted
-24,laki-laki,93.5,normal
-10,perempuan,73.9,normal
-50,laki-laki,118.0,tinggi
-12,laki-laki,65.2,severely stunted
-34,perempuan,102.8,normal
-58,laki-laki,122.7,tinggi
-2,perempuan,48.2290957209668,severely stunted
-34,perempuan,107.7,tinggi
-30,laki-laki,87.8,normal
-44,perempuan,92.5,normal
-17,perempuan,69.6,severely stunted
-29,laki-laki,90.4,normal
-41,laki-laki,99.7,normal
-7,laki-laki,75.0,normal
-58,laki-laki,100.5,normal
-45,laki-laki,87.2,severely stunted
-7,laki-laki,61.4,severely stunted
-26,laki-laki,85.1,normal
-52,perempuan,106.8,normal
-33,perempuan,105.5,tinggi
-20,perempuan,68.7,severely stunted
-45,laki-laki,92.5,stunted
-1,laki-laki,63.1645192038427,tinggi
-45,perempuan,105.7,normal
-56,laki-laki,94.0,severely stunted
-32,laki-laki,90.2,normal
-49,laki-laki,119.5,tinggi
-58,perempuan,90.2,severely stunted
-36,laki-laki,109.1,tinggi
-47,perempuan,91.4,stunted
-22,perempuan,70.9,severely stunted
-54,perempuan,100.6,normal
-18,perempuan,78.3,normal
-28,perempuan,87.6,normal
-6,perempuan,55.7,severely stunted
-36,perempuan,92.4,normal
-7,perempuan,63.7,normal
-13,perempuan,78.1,normal
-35,perempuan,96.3,normal
-32,perempuan,89.1,normal
-16,laki-laki,71.2,severely stunted
-8,perempuan,60.2,severely stunted
-15,laki-laki,84.6,normal
-48,perempuan,94.2,normal
-34,perempuan,100.3,normal
-18,laki-laki,69.9,severely stunted
-22,perempuan,94.5,tinggi
-42,laki-laki,106.0,normal
-41,perempuan,85.3,severely stunted
-33,laki-laki,97.5,normal
-10,perempuan,81.0,tinggi
-52,laki-laki,95.7,stunted
-14,perempuan,73.5,normal
-41,laki-laki,110.2,normal
-46,perempuan,97.6,normal
-34,laki-laki,89.1,normal
-37,laki-laki,98.7,normal
-21,perempuan,85.4,normal
-49,laki-laki,108.4,normal
-11,perempuan,83.7,tinggi
-41,perempuan,88.8,stunted
-52,laki-laki,94.1,stunted
-22,laki-laki,75.9,severely stunted
-54,perempuan,124.0,tinggi
-32,perempuan,79.5,severely stunted
-57,perempuan,119.0,normal
-0,perempuan,41.5720895569648,severely stunted
-60,laki-laki,96.8,stunted
-30,perempuan,94.5,normal
-3,laki-laki,49.1,severely stunted
-35,laki-laki,99.5,normal
-31,perempuan,105.1,tinggi
-2,laki-laki,52.3196298254023,severely stunted
-56,perempuan,118.9,normal
-60,laki-laki,92.7,severely stunted
-40,perempuan,105.9,normal
-43,laki-laki,101.6,normal
-20,perempuan,71.6,severely stunted
-50,perempuan,119.0,tinggi
-35,perempuan,90.4,normal
-31,laki-laki,103.5,tinggi
-50,laki-laki,104.4,normal
-52,perempuan,114.8,normal
-53,laki-laki,100.5,normal
-6,laki-laki,68.6,normal
-56,perempuan,108.6,normal
-22,perempuan,92.4,normal
-4,perempuan,61.2,normal
-45,laki-laki,92.1,stunted
-22,laki-laki,86.1,normal
-52,laki-laki,118.3,normal
-40,perempuan,85.5,severely stunted
-13,perempuan,66.0,severely stunted
-34,laki-laki,102.6,normal
-26,perempuan,95.6,normal
-47,perempuan,94.9,normal
-35,perempuan,80.5,severely stunted
-15,perempuan,81.8,normal
-55,laki-laki,121.9,tinggi
-48,laki-laki,105.1,normal
-27,laki-laki,90.9,normal
-30,perempuan,88.4,normal
-34,laki-laki,94.8,normal
-6,laki-laki,79.9,tinggi
-52,perempuan,99.7,normal
-44,laki-laki,102.5,normal
-24,laki-laki,74.2,severely stunted
-49,laki-laki,117.8,tinggi
-57,perempuan,115.2,normal
-11,laki-laki,80.9,normal
-55,perempuan,109.7,normal
-5,laki-laki,53.6,severely stunted
-11,perempuan,80.6,tinggi
-53,perempuan,91.5,severely stunted
-53,laki-laki,98.2,normal
-33,laki-laki,93.5,normal
-3,perempuan,62.5,normal
-25,perempuan,83.9,normal
-35,perempuan,89.8,normal
-19,perempuan,78.6,normal
-29,perempuan,97.5,normal
-2,perempuan,73.3904428438933,tinggi
-52,perempuan,105.8,normal
-24,perempuan,95.5,normal
-30,laki-laki,104.8,tinggi
-47,laki-laki,90.0,severely stunted
-2,laki-laki,74.9856501421343,tinggi
-46,perempuan,105.7,normal
-31,perempuan,105.4,tinggi
-38,perempuan,86.3,stunted
-29,laki-laki,79.9,severely stunted
-4,laki-laki,61.6,normal
-23,laki-laki,98.5,tinggi
-30,laki-laki,103.3,tinggi
-16,laki-laki,88.6,tinggi
-1,laki-laki,58.4747807957484,normal
-6,perempuan,80.1,tinggi
-47,laki-laki,97.7,normal
-6,laki-laki,75.4,tinggi
-5,laki-laki,62.5,normal
-16,perempuan,68.8,severely stunted
-1,laki-laki,43.6670633124806,severely stunted
-17,perempuan,81.0,normal
-23,perempuan,96.0,tinggi
-39,laki-laki,95.5,normal
-48,laki-laki,100.0,normal
-42,perempuan,84.1,severely stunted
-51,laki-laki,93.6,stunted
-14,perempuan,81.5,normal
-57,laki-laki,108.5,normal
-46,perempuan,100.3,normal
-17,laki-laki,84.5,normal
-26,perempuan,88.3,normal
-16,laki-laki,84.5,normal
-49,laki-laki,100.0,normal
-5,perempuan,69.9,normal
-38,perempuan,109.6,tinggi
-30,laki-laki,87.4,normal
-50,perempuan,100.6,normal
-58,perempuan,121.8,normal
-6,perempuan,71.5,normal
-1,perempuan,45.5713198256529,severely stunted
-3,perempuan,49.3,severely stunted
-43,perempuan,103.0,normal
-1,perempuan,50.8369824545861,normal
-13,laki-laki,76.9,normal
-10,perempuan,81.7,tinggi
-29,perempuan,103.6,tinggi
-56,laki-laki,123.1,tinggi
-56,perempuan,107.3,normal
-42,perempuan,86.0,severely stunted
-48,laki-laki,116.1,tinggi
-16,perempuan,86.0,normal
-30,perempuan,89.4,normal
-33,laki-laki,105.2,tinggi
-54,laki-laki,118.5,normal
-49,perempuan,104.7,normal
-49,perempuan,98.0,normal
-10,perempuan,79.5,tinggi
-51,laki-laki,106.1,normal
-57,perempuan,117.6,normal
-17,perempuan,69.2,severely stunted
-0,perempuan,41.3524534442141,severely stunted
-46,laki-laki,99.4,normal
-19,perempuan,91.2,tinggi
-25,perempuan,90.0,normal
-37,perempuan,98.7,normal
-28,laki-laki,95.0,normal
-11,perempuan,75.8,normal
-1,perempuan,54.2992516588487,normal
-58,laki-laki,116.0,normal
-57,perempuan,100.4,normal
-28,laki-laki,95.4,normal
-56,perempuan,94.3,stunted
-31,laki-laki,80.4,severely stunted
-23,laki-laki,96.1,tinggi
-43,laki-laki,105.2,normal
-41,perempuan,98.6,normal
-11,laki-laki,73.6,normal
-10,perempuan,76.2,normal
-60,perempuan,125.5,tinggi
-6,perempuan,77.8,tinggi
-36,perempuan,108.5,tinggi
-40,perempuan,90.0,normal
-23,laki-laki,83.1,normal
-37,laki-laki,110.4,tinggi
-37,laki-laki,111.8,tinggi
-17,laki-laki,86.5,normal
-4,perempuan,70.8,tinggi
-29,perempuan,93.0,normal
-46,perempuan,111.9,normal
-28,laki-laki,102.5,tinggi
-22,laki-laki,87.5,normal
-60,laki-laki,95.9,severely stunted
-43,laki-laki,82.7,severely stunted
-6,laki-laki,72.8,normal
-43,laki-laki,105.1,normal
-13,perempuan,80.5,normal
-0,perempuan,41.9504043142358,severely stunted
-19,perempuan,67.9,severely stunted
-45,laki-laki,88.2,severely stunted
-17,laki-laki,92.0,tinggi
-50,perempuan,93.3,stunted
-6,perempuan,69.7,normal
-38,laki-laki,105.6,normal
-0,perempuan,59.4813692546849,tinggi
-46,laki-laki,115.7,tinggi
-16,laki-laki,67.2,severely stunted
-21,perempuan,74.8,stunted
-38,perempuan,106.6,normal
-39,perempuan,86.0,stunted
-9,perempuan,71.7,normal
-10,perempuan,75.6,normal
-4,perempuan,66.5,normal
-58,laki-laki,105.0,normal
-16,perempuan,92.0,tinggi
-3,perempuan,50.9,severely stunted
-31,perempuan,104.7,tinggi
-6,laki-laki,81.0,tinggi
-24,laki-laki,80.0,stunted
-1,perempuan,56.4917378256491,normal
-49,laki-laki,114.0,normal
-46,perempuan,106.1,normal
-43,perempuan,104.5,normal
-46,laki-laki,111.4,normal
-13,perempuan,82.8,normal
-13,perempuan,86.7,tinggi
-13,perempuan,77.5,normal
-18,perempuan,86.7,normal
-42,laki-laki,108.9,normal
-21,laki-laki,86.1,normal
-34,perempuan,81.5,severely stunted
-26,laki-laki,90.1,normal
-26,perempuan,89.5,normal
-14,laki-laki,75.7,normal
-7,perempuan,62.0,stunted
-35,perempuan,83.5,stunted
-6,laki-laki,78.5,tinggi
-9,perempuan,83.4,tinggi
-40,laki-laki,112.6,tinggi
-44,laki-laki,114.3,tinggi
-15,laki-laki,69.9,severely stunted
-49,laki-laki,91.9,stunted
-25,laki-laki,80.7,stunted
-6,perempuan,56.6,severely stunted
-46,laki-laki,102.8,normal
-33,laki-laki,98.2,normal
-36,laki-laki,101.0,normal
-49,perempuan,118.0,tinggi
-34,perempuan,90.4,normal
-5,laki-laki,56.9,severely stunted
-29,perempuan,94.7,normal
-50,perempuan,114.5,normal
-3,perempuan,69.8,tinggi
-48,perempuan,111.6,normal
-44,perempuan,101.5,normal
-5,perempuan,71.7,tinggi
-48,laki-laki,115.6,normal
-29,perempuan,76.2,severely stunted
-28,laki-laki,96.2,normal
-22,perempuan,83.8,normal
-31,laki-laki,105.6,tinggi
-13,perempuan,74.6,normal
-5,laki-laki,53.3,severely stunted
-54,perempuan,115.4,normal
-44,perempuan,104.0,normal
-36,laki-laki,98.4,normal
-23,laki-laki,74.7,severely stunted
-18,laki-laki,71.6,severely stunted
-29,perempuan,104.6,tinggi
-15,perempuan,64.7,severely stunted
-56,laki-laki,91.4,severely stunted
-15,perempuan,67.2,severely stunted
-12,perempuan,65.6,severely stunted
-8,perempuan,79.4,tinggi
-53,perempuan,120.5,tinggi
-26,perempuan,94.9,normal
-54,laki-laki,109.0,normal
-40,laki-laki,84.4,severely stunted
-16,perempuan,84.8,normal
-12,perempuan,66.5,stunted
-45,laki-laki,99.9,normal
-43,laki-laki,112.9,tinggi
-20,perempuan,83.3,normal
-19,perempuan,68.2,severely stunted
-24,perempuan,95.9,normal
-18,perempuan,88.5,normal
-16,laki-laki,77.4,normal
-20,laki-laki,80.0,normal
-55,laki-laki,95.1,stunted
-4,laki-laki,62.2,normal
-36,perempuan,105.1,normal
-28,laki-laki,84.0,normal
-43,laki-laki,110.1,normal
-9,perempuan,78.3,tinggi
-25,laki-laki,83.3,normal
-38,laki-laki,103.0,normal
-22,laki-laki,83.6,normal
-56,perempuan,99.1,normal
-20,perempuan,86.1,normal
-18,perempuan,82.2,normal
-3,perempuan,64.2,normal
-22,perempuan,92.7,normal
-24,perempuan,87.8,normal
-32,perempuan,77.1,severely stunted
-54,perempuan,96.9,stunted
-55,laki-laki,123.3,tinggi
-48,perempuan,114.8,normal
-18,laki-laki,69.9,severely stunted
-11,laki-laki,64.4,severely stunted
-18,perempuan,87.5,normal
-8,perempuan,73.7,normal
-6,laki-laki,73.2,normal
-54,laki-laki,111.2,normal
-39,laki-laki,102.8,normal
-60,perempuan,100.7,normal
-18,perempuan,91.4,tinggi
-36,perempuan,86.2,stunted
-37,laki-laki,90.1,normal
-43,perempuan,111.6,normal
-39,perempuan,82.3,severely stunted
-7,laki-laki,67.4,normal
-6,perempuan,74.4,tinggi
-16,laki-laki,84.4,normal
-44,laki-laki,114.6,tinggi
-43,perempuan,113.2,tinggi
-17,laki-laki,78.7,normal
-27,laki-laki,75.0,severely stunted
-25,laki-laki,82.1,normal
-35,perempuan,106.5,tinggi
-39,perempuan,92.5,normal
-60,perempuan,97.2,stunted
-34,perempuan,81.6,severely stunted
-48,laki-laki,97.0,normal
-58,laki-laki,92.8,severely stunted
-17,laki-laki,80.1,normal
-47,perempuan,103.2,normal
-13,perempuan,68.3,stunted
-6,perempuan,72.0,normal
-53,laki-laki,93.1,stunted
-59,perempuan,99.1,stunted
-57,perempuan,109.7,normal
-37,laki-laki,105.8,normal
-31,perempuan,78.6,severely stunted
-2,laki-laki,45.8153432238932,severely stunted
-59,perempuan,98.2,stunted
-28,laki-laki,86.5,normal
-53,laki-laki,96.9,stunted
-8,laki-laki,62.8,severely stunted
-25,perempuan,82.7,normal
-36,perempuan,106.4,normal
-51,laki-laki,115.2,normal
-31,perempuan,89.3,normal
-4,laki-laki,77.6,tinggi
-59,laki-laki,104.5,normal
-21,laki-laki,76.0,severely stunted
-22,laki-laki,74.1,severely stunted
-40,laki-laki,88.9,stunted
-36,laki-laki,105.8,normal
-24,laki-laki,98.7,tinggi
-46,laki-laki,114.2,normal
-48,perempuan,92.6,stunted
-27,laki-laki,85.5,normal
-0,perempuan,44.9315496622813,stunted
-28,perempuan,95.7,normal
-21,perempuan,84.2,normal
-8,perempuan,59.3,severely stunted
-6,laki-laki,65.7,normal
-32,laki-laki,84.4,stunted
-1,perempuan,67.4828366251885,tinggi
-54,perempuan,118.5,normal
-3,perempuan,64.7,normal
-9,perempuan,67.7,normal
-57,laki-laki,101.1,normal
-10,perempuan,83.0,tinggi
-36,perempuan,83.8,stunted
-29,laki-laki,82.7,stunted
-32,perempuan,100.9,normal
-8,laki-laki,58.5,severely stunted
-45,perempuan,96.6,normal
-18,laki-laki,82.0,normal
-51,perempuan,117.0,normal
-49,perempuan,89.9,severely stunted
-16,laki-laki,83.8,normal
-28,perempuan,92.2,normal
-18,laki-laki,85.1,normal
-34,laki-laki,98.0,normal
-59,laki-laki,97.8,stunted
-12,laki-laki,65.5,severely stunted
-24,laki-laki,84.2,normal
-10,perempuan,72.7,normal
-51,laki-laki,89.2,severely stunted
-43,perempuan,86.9,severely stunted
-59,laki-laki,124.8,tinggi
-42,laki-laki,95.3,normal
-34,laki-laki,103.1,normal
-49,perempuan,106.3,normal
-49,laki-laki,116.6,normal
-25,perempuan,82.3,normal
-41,laki-laki,108.7,normal
-18,laki-laki,70.0,severely stunted
-16,perempuan,72.7,stunted
-34,laki-laki,109.5,tinggi
-18,laki-laki,84.1,normal
-43,perempuan,104.2,normal
-12,perempuan,64.5,severely stunted
-20,perempuan,71.6,severely stunted
-8,laki-laki,83.4,tinggi
-5,laki-laki,62.5,normal
-54,perempuan,114.5,normal
-52,laki-laki,109.1,normal
-33,perempuan,93.6,normal
-15,laki-laki,70.0,severely stunted
-38,perempuan,103.0,normal
-20,laki-laki,95.4,tinggi
-12,perempuan,78.0,normal
-27,perempuan,87.2,normal
-44,laki-laki,99.3,normal
-18,laki-laki,83.1,normal
-51,perempuan,98.9,normal
-41,perempuan,86.5,stunted
-48,laki-laki,94.7,stunted
-39,perempuan,86.6,stunted
-60,perempuan,110.0,normal
-25,laki-laki,88.1,normal
-43,laki-laki,86.0,severely stunted
-56,perempuan,116.1,normal
-57,laki-laki,91.7,severely stunted
-33,perempuan,105.8,tinggi
-17,laki-laki,79.8,normal
-23,perempuan,80.4,normal
-39,laki-laki,86.1,severely stunted
-59,perempuan,91.2,severely stunted
-60,laki-laki,126.4,tinggi
-45,laki-laki,92.5,stunted
-50,laki-laki,88.0,severely stunted
-38,laki-laki,94.9,normal
-48,laki-laki,100.5,normal
-22,perempuan,89.8,normal
-40,perempuan,108.4,normal
-42,perempuan,90.5,stunted
-17,laki-laki,84.1,normal
-59,laki-laki,113.4,normal
-56,perempuan,95.9,stunted
-20,laki-laki,93.4,tinggi
-12,perempuan,75.4,normal
-29,laki-laki,92.6,normal
-33,perempuan,103.6,normal
-47,perempuan,92.7,stunted
-53,perempuan,111.0,normal
-39,laki-laki,85.4,severely stunted
-59,laki-laki,103.1,normal
-57,laki-laki,111.6,normal
-30,perempuan,82.8,stunted
-11,perempuan,75.5,normal
-30,laki-laki,91.4,normal
-57,perempuan,109.7,normal
-60,perempuan,127.0,tinggi
-8,laki-laki,78.3,tinggi
-24,perempuan,77.6,stunted
-59,laki-laki,120.1,normal
-55,perempuan,109.6,normal
-27,perempuan,93.5,normal
-1,perempuan,65.2940606380964,tinggi
-25,perempuan,76.3,severely stunted
-21,perempuan,86.1,normal
-7,laki-laki,62.8,stunted
-46,perempuan,108.2,normal
-48,laki-laki,116.9,tinggi
-9,perempuan,80.5,tinggi
-30,perempuan,86.2,normal
-5,perempuan,69.6,normal
-54,laki-laki,103.3,normal
-8,perempuan,64.6,normal
-19,laki-laki,73.7,severely stunted
-42,laki-laki,98.4,normal
-35,perempuan,85.5,stunted
-42,laki-laki,101.0,normal
-38,perempuan,105.7,normal
-46,laki-laki,95.8,normal
-4,laki-laki,63.1,normal
-43,laki-laki,101.3,normal
-32,perempuan,89.6,normal
-13,laki-laki,70.9,stunted
-46,laki-laki,103.1,normal
-16,perempuan,91.7,tinggi
-45,laki-laki,108.8,normal
-58,laki-laki,98.5,stunted
-44,perempuan,115.8,tinggi
-37,perempuan,110.2,tinggi
-31,laki-laki,89.8,normal
-23,laki-laki,80.5,stunted
-42,laki-laki,112.8,tinggi
-57,perempuan,122.6,tinggi
-4,perempuan,75.5,tinggi
-34,perempuan,90.2,normal
-6,perempuan,75.3,tinggi
-50,laki-laki,119.0,tinggi
-49,perempuan,97.5,normal
-42,laki-laki,91.0,stunted
-27,perempuan,93.1,normal
-19,laki-laki,74.8,severely stunted
-18,laki-laki,85.8,normal
-57,perempuan,117.5,normal
-40,laki-laki,92.9,normal
-57,perempuan,124.5,tinggi
-28,laki-laki,85.7,normal
-55,perempuan,108.7,normal
-54,laki-laki,96.0,stunted
-21,perempuan,73.1,severely stunted
-16,perempuan,71.3,stunted
-4,perempuan,50.7,severely stunted
-50,laki-laki,116.6,normal
-16,laki-laki,76.2,normal
-48,laki-laki,108.4,normal
-18,perempuan,89.2,normal
-53,laki-laki,102.7,normal
-1,perempuan,65.4961035466874,tinggi
-35,perempuan,94.2,normal
-54,laki-laki,91.2,severely stunted
-41,laki-laki,107.2,normal
-57,laki-laki,96.0,stunted
-10,laki-laki,68.0,stunted
-20,laki-laki,81.3,normal
-22,laki-laki,85.7,normal
-22,laki-laki,76.4,severely stunted
-13,perempuan,70.9,normal
-28,laki-laki,77.2,severely stunted
-57,laki-laki,118.6,normal
-53,perempuan,107.4,normal
-35,perempuan,108.7,tinggi
-32,perempuan,81.7,stunted
-2,laki-laki,70.3800246973728,tinggi
-57,perempuan,102.0,normal
-41,perempuan,107.4,normal
-20,perempuan,94.0,tinggi
-0,perempuan,42.3189564936507,severely stunted
-46,laki-laki,90.0,stunted
-41,laki-laki,112.8,tinggi
-26,perempuan,93.0,normal
-53,laki-laki,93.7,stunted
-42,perempuan,88.5,stunted
-31,perempuan,77.5,severely stunted
-30,perempuan,87.0,normal
-59,perempuan,91.1,severely stunted
-42,laki-laki,103.4,normal
-21,laki-laki,78.7,stunted
-34,laki-laki,82.2,severely stunted
-2,laki-laki,61.8757866506687,normal
-11,laki-laki,68.8,stunted
-59,laki-laki,100.0,stunted
-32,perempuan,100.8,normal
-16,laki-laki,79.8,normal
-26,perempuan,93.3,normal
-21,perempuan,73.8,severely stunted
-6,perempuan,55.5,severely stunted
-27,laki-laki,79.5,severely stunted
-9,perempuan,70.6,normal
-26,perempuan,90.5,normal
-54,laki-laki,95.0,stunted
-11,perempuan,73.3,normal
-4,perempuan,51.0,severely stunted
-27,laki-laki,103.0,tinggi
-1,laki-laki,66.7213074915824,tinggi
-30,laki-laki,83.7,stunted
-1,laki-laki,57.3802648406216,normal
-23,laki-laki,94.8,normal
-27,perempuan,73.3,severely stunted
-4,laki-laki,56.4,severely stunted
-0,laki-laki,49.748323964378,normal
-35,laki-laki,109.7,tinggi
-43,perempuan,103.8,normal
-28,laki-laki,98.3,normal
-23,laki-laki,89.7,normal
-10,laki-laki,81.8,tinggi
-9,perempuan,58.3,severely stunted
-52,perempuan,92.1,stunted
-47,laki-laki,115.4,tinggi
-48,laki-laki,96.2,normal
-54,perempuan,110.9,normal
-58,perempuan,101.3,normal
-43,laki-laki,95.3,normal
-54,perempuan,96.1,stunted
-14,laki-laki,81.6,normal
-30,perempuan,96.9,normal
-58,perempuan,99.8,normal
-6,laki-laki,64.5,normal
-52,laki-laki,115.6,normal
-42,laki-laki,90.5,stunted
-12,perempuan,72.0,normal
-37,perempuan,86.4,stunted
-19,laki-laki,93.8,tinggi
-27,perempuan,84.2,normal
-27,laki-laki,95.5,normal
-20,laki-laki,84.9,normal
-13,perempuan,80.4,normal
-16,laki-laki,70.5,severely stunted
-1,perempuan,56.864841843437,normal
-32,perempuan,102.7,normal
-49,laki-laki,114.4,normal
-18,laki-laki,83.8,normal
-9,perempuan,71.0,normal
-24,perempuan,99.4,tinggi
-5,laki-laki,61.9,normal
-55,perempuan,98.5,normal
-30,perempuan,89.2,normal
-10,perempuan,72.9,normal
-22,perempuan,87.5,normal
-10,laki-laki,86.8,tinggi
-52,laki-laki,118.6,normal
-11,perempuan,83.3,tinggi
-2,laki-laki,50.3378674201028,severely stunted
-18,perempuan,81.7,normal
-21,laki-laki,74.7,severely stunted
-59,perempuan,93.6,severely stunted
-29,laki-laki,78.8,severely stunted
-54,laki-laki,97.8,stunted
-38,perempuan,89.8,normal
-14,perempuan,80.7,normal
-12,laki-laki,85.6,tinggi
-25,laki-laki,88.0,normal
-0,perempuan,56.1322185341807,tinggi
-17,laki-laki,81.1,normal
-18,perempuan,76.4,normal
-24,laki-laki,94.8,normal
-45,laki-laki,110.6,normal
-20,laki-laki,96.2,tinggi
-35,laki-laki,92.8,normal
-36,laki-laki,91.0,normal
-45,perempuan,87.9,severely stunted
-21,perempuan,79.7,normal
-46,laki-laki,109.2,normal
-16,perempuan,74.5,normal
-56,laki-laki,113.5,normal
-39,laki-laki,85.7,severely stunted
-51,laki-laki,106.1,normal
-49,perempuan,112.1,normal
-30,perempuan,76.8,severely stunted
-14,perempuan,80.8,normal
-9,perempuan,73.4,normal
-7,perempuan,73.7,normal
-51,laki-laki,113.2,normal
-9,perempuan,64.3,stunted
-51,perempuan,103.0,normal
-60,laki-laki,96.9,stunted
-30,laki-laki,93.1,normal
-42,laki-laki,95.6,normal
-19,laki-laki,88.5,normal
-10,laki-laki,77.7,normal
-43,perempuan,106.1,normal
-11,perempuan,63.9,severely stunted
-0,laki-laki,55.6811552699437,tinggi
-25,laki-laki,92.9,normal
-0,perempuan,51.9759332638282,normal
-15,perempuan,69.4,stunted
-30,perempuan,93.0,normal
-4,perempuan,56.5,stunted
-16,laki-laki,74.1,stunted
-29,laki-laki,100.3,normal
-50,laki-laki,97.6,normal
-10,perempuan,67.1,normal
-34,perempuan,97.2,normal
-15,laki-laki,85.2,normal
-23,laki-laki,84.7,normal
-39,perempuan,89.8,normal
-0,perempuan,59.6411065119003,tinggi
-5,perempuan,73.4,tinggi
-34,laki-laki,101.0,normal
-44,laki-laki,87.7,severely stunted
-34,perempuan,93.9,normal
-4,perempuan,68.4,normal
-47,laki-laki,107.9,normal
-25,laki-laki,101.7,tinggi
-12,perempuan,68.8,stunted
-36,perempuan,92.7,normal
-48,laki-laki,118.8,tinggi
-41,perempuan,104.1,normal
-50,perempuan,111.4,normal
-30,perempuan,88.1,normal
-41,perempuan,88.0,stunted
-6,perempuan,73.7,tinggi
-47,laki-laki,95.9,normal
-31,perempuan,87.7,normal
-45,laki-laki,98.4,normal
-32,laki-laki,89.6,normal
-21,perempuan,98.6,tinggi
-5,perempuan,58.2,stunted
-39,laki-laki,82.3,severely stunted
-37,perempuan,88.7,normal
-35,perempuan,87.6,normal
-22,laki-laki,94.2,normal
-34,laki-laki,85.6,stunted
-39,laki-laki,90.1,stunted
-12,laki-laki,66.7,severely stunted
-50,perempuan,115.3,normal
-40,perempuan,90.7,normal
-38,laki-laki,102.2,normal
-38,laki-laki,101.8,normal
-44,laki-laki,94.5,normal
-37,laki-laki,95.0,normal
-20,laki-laki,94.7,tinggi
-35,laki-laki,95.6,normal
-38,laki-laki,98.5,normal
-52,perempuan,92.5,stunted
-46,laki-laki,107.7,normal
-34,perempuan,92.3,normal
-5,laki-laki,63.8,normal
-0,laki-laki,50.1690586845012,normal
-3,laki-laki,72.9,tinggi
-25,laki-laki,82.8,normal
-36,perempuan,99.6,normal
-51,laki-laki,97.5,normal
-20,laki-laki,84.2,normal
-30,perempuan,99.9,normal
-11,laki-laki,67.8,stunted
-7,perempuan,54.3,severely stunted
-60,perempuan,94.5,severely stunted
-54,laki-laki,91.4,severely stunted
-13,perempuan,84.1,tinggi
-48,laki-laki,115.0,normal
-10,perempuan,67.4,normal
-42,laki-laki,91.3,stunted
-18,laki-laki,89.7,normal
-9,perempuan,75.6,normal
-56,laki-laki,109.0,normal
-40,perempuan,99.1,normal
-43,laki-laki,84.6,severely stunted
-7,perempuan,65.1,normal
-58,laki-laki,122.2,normal
-34,laki-laki,89.1,normal
-60,perempuan,112.7,normal
-32,perempuan,105.3,tinggi
-20,perempuan,83.3,normal
-44,perempuan,97.7,normal
-57,perempuan,107.4,normal
-24,perempuan,78.1,stunted
-14,perempuan,66.8,severely stunted
-59,perempuan,106.8,normal
-52,laki-laki,106.5,normal
-40,laki-laki,100.8,normal
-13,laki-laki,88.9,tinggi
-21,perempuan,98.0,tinggi
-57,perempuan,93.2,severely stunted
-9,perempuan,58.2,severely stunted
-58,perempuan,123.9,tinggi
-18,perempuan,86.5,normal
-31,perempuan,82.0,stunted
-32,laki-laki,98.5,normal
-60,perempuan,104.7,normal
-48,perempuan,102.8,normal
-52,laki-laki,91.2,severely stunted
-35,perempuan,107.3,tinggi
-18,perempuan,91.4,tinggi
-36,perempuan,90.3,normal
-34,perempuan,97.1,normal
-8,laki-laki,73.4,normal
-27,laki-laki,77.3,severely stunted
-2,laki-laki,52.5288754333542,stunted
-25,perempuan,72.2,severely stunted
-29,laki-laki,81.1,stunted
-28,laki-laki,84.5,normal
-20,perempuan,69.6,severely stunted
-18,laki-laki,76.7,stunted
-29,perempuan,104.9,tinggi
-12,laki-laki,71.4,normal
-31,perempuan,77.7,severely stunted
-41,laki-laki,113.2,tinggi
-36,perempuan,86.8,stunted
-30,laki-laki,88.6,normal
-52,perempuan,111.6,normal
-41,perempuan,108.0,normal
-18,laki-laki,85.3,normal
-31,laki-laki,106.3,tinggi
-6,laki-laki,74.5,tinggi
-8,perempuan,77.9,tinggi
-50,perempuan,116.6,normal
-53,laki-laki,111.0,normal
-19,laki-laki,86.9,normal
-38,perempuan,97.3,normal
-49,perempuan,112.7,normal
-2,perempuan,67.8746345213313,tinggi
-53,perempuan,107.4,normal
-51,laki-laki,109.3,normal
-44,laki-laki,110.2,normal
-33,perempuan,79.2,severely stunted
-60,laki-laki,114.1,normal
-12,perempuan,62.0,severely stunted
-4,perempuan,60.6,normal
-38,laki-laki,88.7,stunted
-59,laki-laki,109.2,normal
-59,perempuan,109.8,normal
-0,perempuan,49.0841531555507,normal
-13,laki-laki,80.5,normal
-42,laki-laki,112.5,tinggi
-7,perempuan,74.6,tinggi
-20,perempuan,93.3,tinggi
-44,laki-laki,113.6,tinggi
-15,perempuan,73.8,normal
-4,perempuan,61.0,normal
-0,laki-laki,59.5450418814998,tinggi
-41,perempuan,111.6,tinggi
-36,perempuan,97.5,normal
-52,perempuan,117.1,normal
-24,laki-laki,82.3,normal
-40,laki-laki,104.6,normal
-3,perempuan,50.7,severely stunted
-16,perempuan,87.6,tinggi
-28,perempuan,77.2,severely stunted
-1,laki-laki,69.0764842139262,tinggi
-18,perempuan,80.2,normal
-52,laki-laki,98.3,normal
-37,perempuan,104.7,normal
-14,laki-laki,68.7,severely stunted
-4,laki-laki,59.5,stunted
-53,laki-laki,98.0,normal
-52,laki-laki,88.3,severely stunted
-41,laki-laki,99.8,normal
-47,laki-laki,109.8,normal
-4,laki-laki,63.0,normal
-25,perempuan,93.6,normal
-7,laki-laki,73.8,normal
-52,laki-laki,95.8,stunted
-41,perempuan,106.9,normal
-14,laki-laki,88.2,tinggi
-37,perempuan,80.8,severely stunted
-45,laki-laki,85.8,severely stunted
-21,laki-laki,76.1,severely stunted
-3,laki-laki,48.2,severely stunted
-35,perempuan,108.7,tinggi
-27,laki-laki,75.8,severely stunted
-0,perempuan,41.4003475673556,severely stunted
-13,perempuan,78.7,normal
-49,perempuan,98.1,normal
-30,perempuan,89.4,normal
-36,laki-laki,95.6,normal
-23,laki-laki,93.4,normal
-41,laki-laki,91.8,normal
-60,laki-laki,122.2,normal
-33,laki-laki,103.8,normal
-5,perempuan,64.8,normal
-27,perempuan,81.8,normal
-17,perempuan,83.2,normal
-8,laki-laki,79.8,tinggi
-27,perempuan,86.8,normal
-6,laki-laki,67.8,normal
-16,perempuan,80.2,normal
-36,perempuan,104.3,normal
-32,perempuan,102.6,normal
-35,laki-laki,97.4,normal
-2,perempuan,69.779430363614,tinggi
-47,perempuan,105.8,normal
-21,laki-laki,97.0,tinggi
-57,laki-laki,92.4,severely stunted
-42,laki-laki,106.2,normal
-35,laki-laki,96.2,normal
-54,perempuan,101.6,normal
-6,perempuan,58.2,severely stunted
-3,laki-laki,64.9,normal
-13,perempuan,86.6,tinggi
-56,perempuan,123.2,tinggi
-32,perempuan,81.0,severely stunted
-23,perempuan,86.1,normal
-6,perempuan,67.1,normal
-24,perempuan,74.7,severely stunted
-49,perempuan,86.0,severely stunted
-60,laki-laki,107.4,normal
-38,laki-laki,83.3,severely stunted
-49,laki-laki,103.8,normal
-54,laki-laki,106.9,normal
-38,perempuan,108.7,tinggi
-28,perempuan,96.9,normal
-39,laki-laki,100.4,normal
-33,perempuan,108.3,tinggi
-48,laki-laki,115.8,normal
-40,laki-laki,97.7,normal
-59,perempuan,115.1,normal
-11,laki-laki,70.5,normal
-31,perempuan,99.9,normal
-14,perempuan,71.4,normal
-0,laki-laki,45.9650779540337,stunted
-46,laki-laki,97.0,normal
-27,perempuan,82.0,normal
-11,laki-laki,65.1,severely stunted
-49,perempuan,104.5,normal
-33,perempuan,102.6,normal
-4,laki-laki,73.4,tinggi
-31,laki-laki,92.7,normal
-30,laki-laki,85.9,normal
-15,perempuan,87.6,tinggi
-48,laki-laki,116.2,tinggi
-23,laki-laki,87.7,normal
-48,perempuan,86.3,severely stunted
-17,perempuan,68.2,severely stunted
-3,perempuan,61.8,normal
-55,laki-laki,111.6,normal
-11,laki-laki,79.7,normal
-22,perempuan,72.9,severely stunted
-51,laki-laki,100.6,normal
-1,perempuan,63.0450644846633,tinggi
-24,perempuan,99.9,tinggi
-28,perempuan,79.2,stunted
-3,perempuan,62.1,normal
-15,laki-laki,80.5,normal
-9,perempuan,64.7,stunted
-49,perempuan,106.9,normal
-1,laki-laki,48.4263265726918,severely stunted
-44,laki-laki,90.2,stunted
-56,laki-laki,124.6,tinggi
-19,laki-laki,89.0,normal
-46,laki-laki,86.8,severely stunted
-54,perempuan,96.6,stunted
-14,perempuan,87.9,tinggi
-24,laki-laki,80.6,stunted
-39,laki-laki,90.9,normal
-40,perempuan,86.6,stunted
-4,laki-laki,51.7,severely stunted
-32,perempuan,81.1,severely stunted
-25,perempuan,78.5,stunted
-13,laki-laki,83.1,normal
-19,laki-laki,91.1,normal
-37,laki-laki,108.4,tinggi
-28,laki-laki,104.9,tinggi
-35,perempuan,92.6,normal
-57,laki-laki,122.1,tinggi
-50,perempuan,113.5,normal
-1,perempuan,64.4025790856749,tinggi
-4,laki-laki,58.0,stunted
-36,laki-laki,85.4,stunted
-30,laki-laki,95.4,normal
-12,perempuan,64.6,severely stunted
-34,perempuan,98.1,normal
-3,perempuan,71.9,tinggi
-32,laki-laki,79.0,severely stunted
-4,laki-laki,54.5,severely stunted
-58,laki-laki,104.8,normal
-21,perempuan,95.6,tinggi
-26,perempuan,92.7,normal
-37,perempuan,82.7,severely stunted
-20,perempuan,69.4,severely stunted
-50,perempuan,111.4,normal
-27,perempuan,83.2,normal
-7,laki-laki,81.8,tinggi
-58,laki-laki,99.0,stunted
-16,perempuan,75.5,normal
-31,laki-laki,103.5,tinggi
-52,perempuan,113.4,normal
-0,laki-laki,46.3791226083635,normal
-2,perempuan,47.0407114348995,severely stunted
-9,perempuan,77.9,tinggi
-36,laki-laki,87.2,stunted
-13,perempuan,64.7,severely stunted
-3,laki-laki,56.3,stunted
-33,perempuan,82.6,stunted
-35,perempuan,104.4,normal
-26,laki-laki,97.1,normal
-29,laki-laki,89.7,normal
-4,laki-laki,50.4,severely stunted
-45,perempuan,97.0,normal
-32,laki-laki,84.2,stunted
-6,laki-laki,59.7,severely stunted
-2,laki-laki,57.2614523314406,normal
-29,perempuan,94.0,normal
-46,perempuan,93.9,normal
-33,perempuan,76.4,severely stunted
-34,laki-laki,90.6,normal
-54,laki-laki,111.2,normal
-39,laki-laki,102.1,normal
-22,perempuan,84.7,normal
-37,perempuan,90.4,normal
-31,perempuan,94.7,normal
-27,laki-laki,99.8,tinggi
-53,perempuan,102.5,normal
-7,laki-laki,73.2,normal
-10,laki-laki,60.4,severely stunted
-1,laki-laki,59.0608839660864,normal
-21,perempuan,79.6,normal
-28,perempuan,76.7,severely stunted
-7,perempuan,61.0,stunted
-59,laki-laki,96.5,stunted
-37,perempuan,86.3,stunted
-4,laki-laki,73.0,tinggi
-25,laki-laki,74.6,severely stunted
-24,laki-laki,96.5,tinggi
-0,perempuan,57.4564469997445,tinggi
-29,laki-laki,85.1,normal
-28,perempuan,89.1,normal
-46,perempuan,94.5,normal
-41,laki-laki,105.6,normal
-22,laki-laki,89.3,normal
-55,perempuan,123.0,tinggi
-51,perempuan,104.0,normal
-7,perempuan,58.7,severely stunted
-28,perempuan,78.8,stunted
-24,perempuan,91.1,normal
-41,perempuan,105.8,normal
-30,laki-laki,99.7,normal
-12,perempuan,84.6,tinggi
-30,perempuan,75.0,severely stunted
-44,perempuan,107.0,normal
-54,perempuan,117.4,normal
-6,perempuan,62.3,normal
-19,laki-laki,79.8,normal
-14,laki-laki,82.2,normal
-57,perempuan,89.4,severely stunted
-8,perempuan,75.8,normal
-52,laki-laki,120.4,tinggi
-24,laki-laki,91.4,normal
-38,perempuan,95.5,normal
-44,perempuan,113.6,tinggi
-17,laki-laki,85.0,normal
-18,laki-laki,79.7,normal
-54,laki-laki,95.4,stunted
-25,perempuan,89.9,normal
-23,perempuan,91.9,normal
-22,laki-laki,82.2,normal
-48,laki-laki,95.7,normal
-19,laki-laki,76.9,stunted
-25,laki-laki,84.8,normal
-48,perempuan,87.1,severely stunted
-42,perempuan,106.3,normal
-57,laki-laki,116.9,normal
-29,laki-laki,100.6,normal
-47,laki-laki,95.3,normal
-60,perempuan,105.7,normal
-52,laki-laki,102.6,normal
-52,laki-laki,96.7,stunted
-12,perempuan,81.3,normal
-19,perempuan,71.1,severely stunted
-1,perempuan,53.4234509030374,normal
-49,perempuan,112.6,normal
-5,perempuan,54.5,severely stunted
-6,perempuan,70.2,normal
-7,laki-laki,71.2,normal
-4,perempuan,51.2,severely stunted
-51,laki-laki,95.2,stunted
-24,perempuan,96.8,tinggi
-60,laki-laki,121.6,normal
-46,perempuan,85.0,severely stunted
-32,laki-laki,80.6,severely stunted
-48,laki-laki,94.9,stunted
-14,perempuan,64.5,severely stunted
-6,laki-laki,74.0,normal
-16,laki-laki,85.3,normal
-31,laki-laki,83.3,stunted
-46,laki-laki,106.3,normal
-15,laki-laki,68.6,severely stunted
-10,perempuan,62.6,severely stunted
-28,laki-laki,86.1,normal
-49,laki-laki,107.3,normal
-53,perempuan,122.8,tinggi
-51,perempuan,97.9,normal
-54,perempuan,96.2,stunted
-0,laki-laki,44.5829403938452,stunted
-38,perempuan,82.4,severely stunted
-6,laki-laki,57.2,severely stunted
-47,perempuan,116.2,tinggi
-52,perempuan,111.3,normal
-36,perempuan,99.3,normal
-52,perempuan,119.3,tinggi
-60,perempuan,108.3,normal
-10,perempuan,66.7,normal
-39,laki-laki,84.3,severely stunted
-21,perempuan,84.0,normal
-26,laki-laki,87.9,normal
-54,perempuan,111.1,normal
-17,laki-laki,78.1,normal
-29,perempuan,78.5,severely stunted
-51,perempuan,104.2,normal
-2,perempuan,51.9167742363008,stunted
-14,laki-laki,87.9,tinggi
-44,perempuan,89.5,stunted
-23,laki-laki,95.8,normal
-12,laki-laki,80.4,normal
-40,laki-laki,110.4,tinggi
-20,laki-laki,87.2,normal
-7,laki-laki,57.0,severely stunted
-48,laki-laki,107.9,normal
-28,perempuan,83.3,normal
-39,laki-laki,101.3,normal
-32,perempuan,76.5,severely stunted
-25,laki-laki,76.4,severely stunted
-12,perempuan,63.2,severely stunted
-7,laki-laki,73.2,normal
-53,perempuan,96.2,stunted
-26,laki-laki,78.2,severely stunted
-16,laki-laki,74.0,stunted
-18,laki-laki,70.2,severely stunted
-27,laki-laki,96.4,normal
-8,perempuan,61.0,severely stunted
-3,perempuan,58.4,normal
-30,perempuan,80.2,stunted
-27,laki-laki,87.1,normal
-56,laki-laki,94.1,severely stunted
-44,perempuan,95.4,normal
-55,laki-laki,123.5,tinggi
-45,laki-laki,117.7,tinggi
-17,laki-laki,88.8,normal
-29,perempuan,96.4,normal
-6,laki-laki,79.5,tinggi
-27,laki-laki,97.1,normal
-2,perempuan,62.7845772215635,normal
-19,perempuan,85.9,normal
-52,laki-laki,88.3,severely stunted
-55,perempuan,121.5,tinggi
-50,laki-laki,94.1,stunted
-19,laki-laki,89.5,normal
-28,perempuan,74.3,severely stunted
-10,perempuan,83.1,tinggi
-23,laki-laki,77.4,severely stunted
-8,laki-laki,80.7,tinggi
-8,perempuan,57.8,severely stunted
-8,perempuan,70.3,normal
-12,perempuan,79.3,normal
-38,laki-laki,100.9,normal
-34,laki-laki,86.8,stunted
-23,laki-laki,87.0,normal
-4,perempuan,56.7,stunted
-1,laki-laki,47.3817841083909,severely stunted
-29,perempuan,93.3,normal
-16,laki-laki,75.3,normal
-57,laki-laki,104.8,normal
-46,perempuan,109.9,normal
-6,perempuan,68.2,normal
-36,perempuan,105.2,normal
-54,perempuan,106.7,normal
-60,laki-laki,123.9,normal
-38,laki-laki,102.2,normal
-31,perempuan,84.7,normal
-31,perempuan,84.4,normal
-59,perempuan,100.2,normal
-38,laki-laki,100.9,normal
-33,perempuan,80.8,severely stunted
-1,laki-laki,44.8232723289579,severely stunted
-12,perempuan,67.0,stunted
-32,perempuan,79.7,severely stunted
-54,perempuan,93.2,stunted
-26,perempuan,89.4,normal
-53,laki-laki,102.7,normal
-42,laki-laki,89.8,stunted
-32,perempuan,104.8,tinggi
-23,perempuan,96.3,tinggi
-47,laki-laki,115.5,tinggi
-7,laki-laki,57.4,severely stunted
-59,laki-laki,113.4,normal
-0,perempuan,56.4560249003758,tinggi
+34,laki-laki,94.4,normal
+39,laki-laki,91.9,normal
+21,perempuan,88.1,normal
+3,perempuan,55.8,normal
+18,laki-laki,91.1,tinggi
+49,laki-laki,114.9,normal
+28,laki-laki,93.5,normal
+26,laki-laki,93.1,normal
+47,perempuan,111.7,normal
+41,perempuan,110.0,normal
+51,laki-laki,111.0,normal
+47,laki-laki,118.3,tinggi
+34,perempuan,99.5,normal
+20,laki-laki,72.4,severely stunted
+59,laki-laki,109.4,normal
+14,laki-laki,84.2,normal
+0,laki-laki,51.2365434068574,normal
+39,perempuan,95.5,normal
+54,perempuan,88.3,severely stunted
+3,perempuan,67.2,tinggi
+3,perempuan,57.4,normal
+46,perempuan,108.0,normal
+52,laki-laki,120.7,tinggi
+20,laki-laki,86.1,normal
+22,perempuan,86.2,normal
+45,perempuan,110.6,normal
+49,laki-laki,89.0,severely stunted
+52,laki-laki,120.3,tinggi
+30,laki-laki,96.1,normal
+50,laki-laki,116.5,normal
+16,laki-laki,78.8,normal
+35,perempuan,87.8,normal
+43,perempuan,94.3,normal
+3,perempuan,63.7,normal
+37,laki-laki,110.0,tinggi
+51,perempuan,108.9,normal
+40,laki-laki,96.3,normal
+27,perempuan,83.1,normal
+38,perempuan,92.6,normal
+58,laki-laki,106.8,normal
+60,perempuan,124.9,tinggi
+60,perempuan,104.2,normal
+47,laki-laki,114.4,normal
+14,perempuan,78.7,normal
+22,perempuan,81.0,normal
+13,laki-laki,72.4,normal
+11,perempuan,64.6,severely stunted
+8,laki-laki,59.0,severely stunted
+22,laki-laki,86.3,normal
+60,perempuan,121.3,normal
+15,perempuan,84.3,normal
+47,laki-laki,99.1,normal
+53,perempuan,91.0,severely stunted
+49,perempuan,104.2,normal
+20,laki-laki,85.8,normal
 45,laki-laki,96.2,normal
-46,laki-laki,90.2,stunted
-45,laki-laki,116.0,tinggi
-14,laki-laki,86.3,tinggi
+15,laki-laki,85.0,normal
+53,laki-laki,113.3,normal
+49,perempuan,102.5,normal
+33,laki-laki,97.9,normal
+60,perempuan,123.3,normal
+41,laki-laki,95.3,normal
+39,laki-laki,101.9,normal
+2,perempuan,72.8930365489245,tinggi
+22,laki-laki,94.8,normal
+55,laki-laki,117.8,normal
+29,laki-laki,88.9,normal
+39,perempuan,90.5,normal
+20,perempuan,69.0,severely stunted
+1,laki-laki,51.0698909148434,normal
+39,laki-laki,85.6,severely stunted
+57,perempuan,114.0,normal
+32,laki-laki,79.2,severely stunted
+60,laki-laki,113.5,normal
+1,laki-laki,61.8847179746068,tinggi
+59,laki-laki,102.3,normal
+11,laki-laki,85.4,tinggi
+23,perempuan,85.1,normal
+11,perempuan,79.6,normal
+38,perempuan,80.6,severely stunted
+6,perempuan,67.8,normal
+7,laki-laki,74.0,normal
+17,laki-laki,76.4,normal
+9,perempuan,76.5,normal
+31,laki-laki,85.8,normal
+47,laki-laki,88.2,severely stunted
+57,perempuan,100.5,normal
+7,perempuan,72.3,normal
+41,laki-laki,94.5,normal
+3,perempuan,72.5,tinggi
+36,laki-laki,97.5,normal
+10,laki-laki,76.1,normal
+54,perempuan,105.1,normal
+51,laki-laki,88.6,severely stunted
+36,perempuan,90.3,normal
+47,perempuan,114.1,normal
+0,laki-laki,52.1834911449509,normal
+17,perempuan,83.8,normal
+9,perempuan,65.7,normal
+58,perempuan,120.6,normal
+10,laki-laki,76.2,normal
+57,perempuan,102.6,normal
+33,perempuan,92.4,normal
+36,perempuan,97.7,normal
+47,laki-laki,95.8,normal
 9,perempuan,77.2,normal
-29,perempuan,100.1,normal
-3,laki-laki,66.7,normal
-49,perempuan,88.2,severely stunted
-23,perempuan,94.5,normal
-16,laki-laki,72.8,stunted
-15,perempuan,88.8,tinggi
-38,perempuan,92.9,normal
-37,laki-laki,82.5,severely stunted
-28,perempuan,83.1,normal
-51,perempuan,95.1,stunted
-25,perempuan,89.7,normal
-58,perempuan,101.8,normal
-16,laki-laki,77.7,normal
-33,laki-laki,86.9,stunted
-23,laki-laki,85.4,normal
-26,laki-laki,91.0,normal
-53,laki-laki,106.9,normal
-6,laki-laki,72.9,normal
-38,perempuan,82.7,severely stunted
-40,perempuan,112.8,tinggi
-40,laki-laki,91.4,normal
-3,perempuan,70.8,tinggi
-42,laki-laki,95.1,normal
-6,laki-laki,56.2,severely stunted
-20,perempuan,72.7,severely stunted
-11,perempuan,84.7,tinggi
-55,laki-laki,123.8,tinggi
-23,perempuan,89.3,normal
-53,perempuan,101.9,normal
-39,laki-laki,90.5,normal
-25,perempuan,90.8,normal
-29,laki-laki,76.7,severely stunted
-17,laki-laki,70.2,severely stunted
-60,perempuan,106.6,normal
-27,laki-laki,102.5,tinggi
-55,perempuan,123.7,tinggi
-54,laki-laki,106.5,normal
-21,laki-laki,94.1,tinggi
-37,perempuan,104.7,normal
-18,perempuan,89.1,normal
-30,laki-laki,94.6,normal
-50,perempuan,106.8,normal
-50,perempuan,101.4,normal
-39,perempuan,91.1,normal
-57,perempuan,124.4,tinggi
-3,laki-laki,72.9,tinggi
-14,laki-laki,70.0,severely stunted
-39,perempuan,91.0,normal
-9,perempuan,84.1,tinggi
-2,perempuan,46.6064842336435,severely stunted
-28,perempuan,74.9,severely stunted
-32,laki-laki,93.2,normal
-17,perempuan,92.7,tinggi
-46,perempuan,93.6,normal
-39,laki-laki,95.7,normal
-0,laki-laki,49.7598840338177,normal
-25,perempuan,100.0,tinggi
-5,laki-laki,60.5,stunted
-0,laki-laki,48.3634991444227,normal
-52,laki-laki,103.9,normal
-48,perempuan,107.3,normal
-29,laki-laki,78.6,severely stunted
-8,perempuan,69.0,normal
-12,perempuan,79.7,normal
-46,laki-laki,88.5,severely stunted
-2,laki-laki,74.0244332464188,tinggi
-16,perempuan,86.3,normal
-15,perempuan,71.8,stunted
-8,laki-laki,69.0,normal
-14,perempuan,72.0,normal
-24,perempuan,94.4,normal
-32,perempuan,78.2,severely stunted
-4,perempuan,63.4,normal
-3,perempuan,71.8,tinggi
-26,laki-laki,77.9,severely stunted
-55,perempuan,104.6,normal
-8,laki-laki,80.9,tinggi
-51,laki-laki,98.5,normal
-35,laki-laki,87.8,stunted
-44,perempuan,87.2,severely stunted
-47,perempuan,98.8,normal
-16,perempuan,76.1,normal
-49,laki-laki,91.5,stunted
-5,perempuan,67.7,normal
-2,laki-laki,63.2847999877183,normal
-57,laki-laki,97.0,stunted
-60,laki-laki,126.3,tinggi
-40,laki-laki,106.7,normal
-32,perempuan,79.4,severely stunted
-12,laki-laki,85.6,tinggi
-12,perempuan,79.6,normal
-27,laki-laki,98.3,normal
-46,perempuan,114.4,tinggi
-56,laki-laki,119.1,normal
-21,laki-laki,85.3,normal
-32,perempuan,83.6,stunted
-56,perempuan,99.3,normal
-59,laki-laki,109.7,normal
-41,laki-laki,104.0,normal
-52,laki-laki,95.4,stunted
-31,perempuan,103.4,tinggi
-41,perempuan,111.1,tinggi
-44,laki-laki,97.3,normal
-57,perempuan,122.1,tinggi
-42,perempuan,91.8,normal
-47,laki-laki,93.6,stunted
-20,laki-laki,95.9,tinggi
-43,laki-laki,100.8,normal
-14,perempuan,87.2,tinggi
-11,perempuan,67.5,stunted
-41,perempuan,96.4,normal
-54,perempuan,98.7,normal
-44,laki-laki,109.4,normal
-43,laki-laki,106.6,normal
-8,laki-laki,72.7,normal
-19,perempuan,88.4,normal
-19,perempuan,88.2,normal
-40,laki-laki,108.1,normal
-39,laki-laki,88.0,stunted
-36,perempuan,87.0,stunted
-11,laki-laki,74.5,normal
-13,laki-laki,65.0,severely stunted
-3,perempuan,67.9,tinggi
-19,laki-laki,91.0,normal
-19,laki-laki,71.2,severely stunted
-50,perempuan,112.4,normal
-39,laki-laki,91.4,normal
-1,laki-laki,46.2923507147717,severely stunted
-35,perempuan,102.1,normal
-13,perempuan,71.8,normal
-57,laki-laki,90.7,severely stunted
-37,laki-laki,105.6,normal
-29,perempuan,103.0,tinggi
-28,laki-laki,80.3,severely stunted
-8,perempuan,58.7,severely stunted
-25,laki-laki,76.8,severely stunted
-36,laki-laki,83.2,severely stunted
-48,laki-laki,100.5,normal
-53,perempuan,96.6,stunted
-38,perempuan,97.1,normal
-57,perempuan,111.2,normal
-34,laki-laki,99.3,normal
-52,laki-laki,103.4,normal
-54,laki-laki,102.7,normal
-7,laki-laki,59.7,severely stunted
-15,perempuan,74.3,normal
-29,laki-laki,94.6,normal
-19,perempuan,91.4,tinggi
-15,perempuan,82.2,normal
-27,laki-laki,97.4,normal
-38,perempuan,110.3,tinggi
-16,laki-laki,78.6,normal
-10,laki-laki,63.3,severely stunted
-15,laki-laki,73.0,stunted
-18,perempuan,92.1,tinggi
-34,perempuan,95.1,normal
-42,laki-laki,114.5,tinggi
-58,perempuan,109.8,normal
-44,laki-laki,95.8,normal
-4,perempuan,68.4,normal
-35,perempuan,85.0,stunted
-11,laki-laki,69.0,stunted
-13,perempuan,71.6,normal
-37,perempuan,101.9,normal
-46,perempuan,104.0,normal
-18,laki-laki,85.7,normal
-6,perempuan,80.6,tinggi
-2,perempuan,60.0491260201307,normal
-28,laki-laki,102.5,tinggi
-53,perempuan,114.2,normal
-54,perempuan,116.0,normal
-2,perempuan,63.0882275112373,normal
-13,laki-laki,86.7,tinggi
-1,perempuan,52.9145264783721,normal
-0,perempuan,40.4984998506021,severely stunted
-52,laki-laki,116.3,normal
-22,laki-laki,96.0,tinggi
-2,laki-laki,69.349008177095,tinggi
-24,laki-laki,92.2,normal
-44,perempuan,93.3,normal
-44,laki-laki,106.1,normal
-8,laki-laki,72.9,normal
-26,laki-laki,99.6,tinggi
-36,laki-laki,96.8,normal
-20,perempuan,82.5,normal
-42,perempuan,92.5,normal
-31,perempuan,97.2,normal
-36,laki-laki,110.7,tinggi
-35,perempuan,99.8,normal
-46,laki-laki,108.8,normal
-25,laki-laki,89.2,normal
-23,laki-laki,89.6,normal
-7,laki-laki,76.9,tinggi
-21,laki-laki,85.4,normal
-9,perempuan,59.4,severely stunted
-23,laki-laki,98.5,tinggi
-0,laki-laki,43.8094595068321,severely stunted
-0,perempuan,44.3577278730156,stunted
-45,perempuan,89.9,stunted
-20,laki-laki,79.0,normal
-28,perempuan,95.9,normal
-52,perempuan,88.0,severely stunted
-2,laki-laki,59.5378147370735,normal
-57,laki-laki,99.9,normal
-35,laki-laki,106.5,tinggi
-46,laki-laki,104.1,normal
-8,perempuan,56.8,severely stunted
-52,laki-laki,110.3,normal
-11,laki-laki,72.6,normal
-38,laki-laki,87.4,stunted
-47,laki-laki,111.5,normal
-21,perempuan,84.1,normal
-29,perempuan,81.8,stunted
-13,perempuan,88.0,tinggi
-53,laki-laki,95.3,stunted
-8,perempuan,65.4,normal
-2,laki-laki,52.443958036556,stunted
-47,laki-laki,91.8,stunted
-40,perempuan,102.1,normal
-23,perempuan,83.4,normal
-12,perempuan,85.7,tinggi
-26,laki-laki,98.5,tinggi
-40,perempuan,92.7,normal
-54,perempuan,121.3,tinggi
-17,laki-laki,88.6,normal
-7,laki-laki,72.5,normal
-45,laki-laki,99.7,normal
-46,perempuan,102.2,normal
-35,laki-laki,83.7,severely stunted
-50,laki-laki,110.2,normal
-5,perempuan,72.3,tinggi
-31,perempuan,105.9,tinggi
-20,perempuan,70.9,severely stunted
-13,laki-laki,65.9,severely stunted
-35,perempuan,89.5,normal
-40,perempuan,91.4,normal
-3,perempuan,55.3,stunted
-3,perempuan,69.5,tinggi
-5,laki-laki,52.3,severely stunted
-24,perempuan,94.5,normal
-34,perempuan,88.1,normal
-30,perempuan,84.9,normal
-39,perempuan,107.8,normal
-44,laki-laki,99.7,normal
-22,perempuan,73.3,severely stunted
-16,laki-laki,77.0,normal
-45,perempuan,102.3,normal
-6,laki-laki,58.9,severely stunted
-27,perempuan,85.7,normal
-58,perempuan,95.0,stunted
-20,laki-laki,84.5,normal
-20,perempuan,93.9,tinggi
-42,perempuan,98.3,normal
-43,perempuan,98.7,normal
-21,perempuan,84.3,normal
-6,laki-laki,76.5,tinggi
+43,laki-laki,88.0,severely stunted
+18,laki-laki,69.1,severely stunted
+32,laki-laki,96.6,normal
+30,laki-laki,79.2,severely stunted
+26,laki-laki,95.3,normal
+60,perempuan,92.8,severely stunted
+23,laki-laki,77.0,severely stunted
+52,perempuan,98.2,normal
+5,perempuan,75.7,tinggi
+27,laki-laki,91.7,normal
+12,laki-laki,73.4,normal
+55,perempuan,122.5,tinggi
+17,perempuan,82.3,normal
+44,perempuan,103.7,normal
+31,perempuan,100.9,normal
+44,laki-laki,103.9,normal
+2,laki-laki,55.5940945896172,normal
+30,laki-laki,90.8,normal
+1,perempuan,61.8116429706194,tinggi
+58,perempuan,120.9,normal
+13,laki-laki,76.8,normal
+46,perempuan,110.1,normal
+42,perempuan,108.8,normal
+41,perempuan,98.0,normal
+32,laki-laki,91.7,normal
 24,perempuan,96.5,tinggi
-41,perempuan,96.9,normal
-57,perempuan,92.8,severely stunted
-40,perempuan,107.0,normal
-27,laki-laki,79.1,severely stunted
-5,perempuan,68.3,normal
-29,perempuan,81.1,stunted
-22,perempuan,90.2,normal
-24,laki-laki,93.8,normal
-51,perempuan,88.3,severely stunted
-42,laki-laki,103.7,normal
-34,perempuan,91.3,normal
-34,perempuan,88.9,normal
-52,perempuan,105.3,normal
-41,laki-laki,89.1,stunted
-40,perempuan,94.0,normal
-22,perempuan,89.4,normal
-23,laki-laki,78.4,stunted
-12,laki-laki,69.2,stunted
-28,perempuan,98.9,normal
-2,laki-laki,70.4736656034168,tinggi
-29,perempuan,101.1,tinggi
-1,perempuan,53.1473809035265,normal
-10,perempuan,60.1,severely stunted
-57,laki-laki,111.3,normal
-15,laki-laki,77.0,normal
-56,laki-laki,113.8,normal
-29,laki-laki,101.2,normal
-13,perempuan,69.1,stunted
-8,laki-laki,58.2,severely stunted
-59,laki-laki,92.0,severely stunted
-41,perempuan,113.9,tinggi
-39,laki-laki,96.0,normal
-60,perempuan,115.1,normal
-26,perempuan,93.9,normal
-29,perempuan,95.2,normal
-25,laki-laki,92.2,normal
-51,perempuan,112.7,normal
-58,laki-laki,118.5,normal
-9,perempuan,78.9,tinggi
-26,perempuan,87.6,normal
-29,perempuan,86.5,normal
-49,laki-laki,117.9,tinggi
-22,perempuan,79.6,normal
-0,perempuan,57.8741412246003,tinggi
-47,laki-laki,107.4,normal
-0,perempuan,51.3405056309305,normal
-29,perempuan,97.7,normal
-22,perempuan,93.4,normal
-10,laki-laki,80.3,tinggi
-21,perempuan,93.5,tinggi
-0,perempuan,50.3560113401278,normal
-51,laki-laki,111.5,normal
-4,laki-laki,69.8,normal
-43,laki-laki,86.4,severely stunted
-24,laki-laki,99.9,tinggi
-12,perempuan,78.1,normal
-25,laki-laki,74.6,severely stunted
-25,perempuan,97.6,tinggi
-52,laki-laki,88.6,severely stunted
-58,perempuan,96.2,stunted
-28,perempuan,86.2,normal
-0,laki-laki,59.6419143888819,tinggi
-3,perempuan,56.6,normal
-27,perempuan,95.2,normal
-16,laki-laki,83.9,normal
-24,laki-laki,80.6,stunted
-6,perempuan,77.3,tinggi
-47,perempuan,90.6,stunted
-31,perempuan,76.9,severely stunted
-4,perempuan,67.7,normal
-4,perempuan,56.5,stunted
-38,laki-laki,88.9,stunted
-22,laki-laki,89.7,normal
-34,laki-laki,90.4,normal
-44,laki-laki,90.0,stunted
-34,perempuan,87.1,normal
-37,perempuan,104.7,normal
-13,laki-laki,88.9,tinggi
-15,laki-laki,68.7,severely stunted
-29,perempuan,79.4,severely stunted
-30,perempuan,90.7,normal
-5,laki-laki,68.6,normal
-4,perempuan,58.9,normal
-7,perempuan,67.3,normal
-5,laki-laki,74.5,tinggi
-44,laki-laki,112.3,normal
-51,laki-laki,108.9,normal
-40,perempuan,112.3,tinggi
-4,perempuan,54.7,severely stunted
-12,perempuan,62.7,severely stunted
-38,perempuan,104.6,normal
-46,laki-laki,113.6,normal
-59,perempuan,122.1,normal
-4,perempuan,57.9,normal
-48,perempuan,96.6,normal
-4,perempuan,66.9,normal
-10,perempuan,60.4,severely stunted
-5,perempuan,78.7,tinggi
-57,laki-laki,90.9,severely stunted
-25,perempuan,90.3,normal
-12,perempuan,62.3,severely stunted
-48,perempuan,107.7,normal
-37,laki-laki,109.2,tinggi
-16,perempuan,72.7,stunted
-15,laki-laki,78.8,normal
-47,laki-laki,101.9,normal
-34,perempuan,84.5,stunted
-17,laki-laki,79.2,normal
-23,perempuan,91.7,normal
-58,perempuan,123.8,tinggi
-47,perempuan,113.4,normal
-26,laki-laki,89.4,normal
-48,perempuan,89.0,severely stunted
-22,laki-laki,93.6,normal
-18,perempuan,76.0,normal
-41,perempuan,106.9,normal
-18,perempuan,82.3,normal
-17,laki-laki,90.0,tinggi
-12,perempuan,68.6,stunted
-6,perempuan,79.2,tinggi
-5,perempuan,52.5,severely stunted
-22,perempuan,95.2,tinggi
-39,perempuan,81.0,severely stunted
-46,laki-laki,88.0,severely stunted
-1,perempuan,49.0171405764806,stunted
-22,laki-laki,79.5,stunted
-57,laki-laki,91.2,severely stunted
-7,perempuan,67.2,normal
-20,laki-laki,88.5,normal
-33,laki-laki,88.8,normal
-54,perempuan,118.6,normal
-40,perempuan,107.2,normal
-16,laki-laki,92.3,tinggi
-32,perempuan,99.8,normal
-60,perempuan,95.3,stunted
-52,perempuan,89.4,severely stunted
-37,perempuan,84.5,stunted
-3,perempuan,57.3,normal
-38,laki-laki,97.9,normal
-44,laki-laki,90.8,stunted
-4,laki-laki,62.5,normal
-50,perempuan,94.1,stunted
-54,laki-laki,102.0,normal
-53,laki-laki,91.6,severely stunted
-30,perempuan,84.4,normal
-15,laki-laki,73.1,stunted
-27,laki-laki,82.0,stunted
-30,laki-laki,95.4,normal
-4,laki-laki,63.6,normal
-49,laki-laki,113.6,normal
-38,perempuan,97.0,normal
-21,laki-laki,89.6,normal
-16,perempuan,84.2,normal
-16,perempuan,89.0,tinggi
-28,laki-laki,97.6,normal
-31,perempuan,106.4,tinggi
-19,laki-laki,83.1,normal
-48,laki-laki,98.1,normal
-0,perempuan,48.6772841202238,normal
-57,perempuan,100.1,normal
-34,perempuan,104.0,normal
-32,perempuan,106.2,tinggi
-57,perempuan,110.6,normal
-11,laki-laki,82.7,tinggi
-35,laki-laki,84.6,stunted
-34,laki-laki,87.6,normal
-55,laki-laki,98.9,normal
-60,perempuan,91.2,severely stunted
-50,perempuan,93.6,stunted
-28,perempuan,86.6,normal
-60,perempuan,101.9,normal
-36,laki-laki,97.2,normal
-48,perempuan,115.4,normal
-16,laki-laki,72.2,severely stunted
-58,laki-laki,96.7,stunted
-15,perempuan,81.3,normal
-15,laki-laki,69.3,severely stunted
-10,perempuan,79.3,tinggi
-60,laki-laki,106.0,normal
-26,laki-laki,99.7,tinggi
-39,perempuan,97.7,normal
-58,laki-laki,118.6,normal
-38,laki-laki,110.8,tinggi
-59,laki-laki,108.1,normal
-47,laki-laki,107.6,normal
-46,laki-laki,92.4,stunted
-52,laki-laki,100.8,normal
-37,perempuan,84.4,stunted
-39,laki-laki,89.6,stunted
-34,laki-laki,85.6,stunted
-10,laki-laki,59.5,severely stunted
-6,laki-laki,65.7,normal
-37,perempuan,93.1,normal
-48,laki-laki,107.9,normal
-6,laki-laki,64.8,normal
-54,laki-laki,100.5,normal
-50,laki-laki,102.6,normal
-53,laki-laki,121.8,tinggi
-30,perempuan,81.8,stunted
-20,perempuan,94.2,tinggi
-45,laki-laki,104.3,normal
-19,laki-laki,89.7,normal
-35,perempuan,97.0,normal
-42,perempuan,89.7,stunted
-41,laki-laki,109.7,normal
-29,perempuan,101.7,tinggi
-42,perempuan,84.1,severely stunted
-22,laki-laki,84.6,normal
-2,laki-laki,55.729320160718,normal
-49,perempuan,96.1,normal
-6,perempuan,67.1,normal
-21,laki-laki,79.6,normal
-49,perempuan,98.1,normal
-44,perempuan,87.6,severely stunted
-32,laki-laki,95.5,normal
-48,laki-laki,97.7,normal
-40,perempuan,84.9,severely stunted
-13,laki-laki,79.4,normal
-2,laki-laki,71.4507462093758,tinggi
-11,perempuan,77.5,normal
-19,perempuan,88.7,normal
-48,laki-laki,102.3,normal
-15,laki-laki,87.4,tinggi
-16,laki-laki,73.7,stunted
-44,perempuan,112.1,normal
-8,perempuan,67.1,normal
-25,laki-laki,75.8,severely stunted
-52,laki-laki,115.9,normal
-57,laki-laki,97.9,stunted
-58,perempuan,99.0,stunted
-4,perempuan,66.3,normal
-1,laki-laki,45.5260285471692,severely stunted
-24,perempuan,94.7,normal
-8,perempuan,70.3,normal
-29,perempuan,101.4,tinggi
-35,laki-laki,91.3,normal
-26,laki-laki,96.5,normal
-28,perempuan,76.5,severely stunted
-47,perempuan,105.0,normal
-59,perempuan,115.6,normal
-2,perempuan,56.9710574191855,normal
-18,laki-laki,89.8,normal
-39,perempuan,110.5,tinggi
-38,perempuan,107.8,normal
-32,perempuan,77.2,severely stunted
-42,laki-laki,93.5,normal
-44,laki-laki,114.2,tinggi
-43,laki-laki,82.8,severely stunted
-2,laki-laki,52.8279619864118,stunted
-22,laki-laki,92.0,normal
-60,laki-laki,103.9,normal
-32,perempuan,77.4,severely stunted
-52,laki-laki,106.8,normal
-13,laki-laki,72.8,normal
-1,laki-laki,62.8900070838817,tinggi
-44,perempuan,108.2,normal
-24,laki-laki,91.9,normal
-1,laki-laki,48.1446622425916,severely stunted
-0,laki-laki,45.4653945341104,stunted
-1,laki-laki,48.6325175577645,severely stunted
-32,laki-laki,92.5,normal
-49,perempuan,112.7,normal
-53,perempuan,123.0,tinggi
-32,perempuan,90.0,normal
-12,perempuan,75.7,normal
-30,laki-laki,82.4,stunted
-19,laki-laki,70.4,severely stunted
-18,perempuan,86.6,normal
-24,laki-laki,77.0,severely stunted
-56,perempuan,90.3,severely stunted
-51,laki-laki,109.8,normal
-59,laki-laki,92.5,severely stunted
-11,laki-laki,71.5,normal
-47,laki-laki,103.0,normal
-35,laki-laki,100.2,normal
-56,laki-laki,98.0,stunted
-5,laki-laki,76.9,tinggi
-42,perempuan,111.7,tinggi
-37,perempuan,82.3,severely stunted
-31,laki-laki,93.8,normal
-20,perempuan,72.4,severely stunted
-30,perempuan,80.5,stunted
-7,perempuan,59.8,severely stunted
-1,perempuan,52.8150136753834,normal
-45,perempuan,116.2,tinggi
-21,laki-laki,81.4,normal
-5,perempuan,59.5,stunted
-36,laki-laki,99.2,normal
-5,laki-laki,71.5,normal
-7,perempuan,76.1,tinggi
-57,laki-laki,114.2,normal
-50,laki-laki,97.0,normal
-53,perempuan,121.3,tinggi
-52,perempuan,106.5,normal
-44,perempuan,88.3,stunted
-28,laki-laki,101.3,tinggi
-20,perempuan,84.4,normal
-24,laki-laki,81.0,stunted
-9,perempuan,82.6,tinggi
-31,laki-laki,88.2,normal
-33,laki-laki,88.6,normal
-53,perempuan,119.2,tinggi
-33,perempuan,92.2,normal
-27,laki-laki,93.3,normal
-27,laki-laki,76.8,severely stunted
-7,perempuan,78.6,tinggi
-21,perempuan,98.4,tinggi
-15,laki-laki,85.1,normal
-32,laki-laki,76.2,severely stunted
-12,perempuan,85.2,tinggi
-45,laki-laki,112.6,normal
-20,perempuan,70.0,severely stunted
-29,perempuan,104.1,tinggi
-30,laki-laki,97.0,normal
-39,laki-laki,89.6,stunted
-27,perempuan,77.6,severely stunted
-34,perempuan,94.0,normal
-40,perempuan,94.8,normal
-16,laki-laki,90.8,tinggi
-7,laki-laki,59.8,severely stunted
-17,laki-laki,79.7,normal
-50,perempuan,89.3,severely stunted
-22,perempuan,87.1,normal
-39,perempuan,88.6,stunted
-11,perempuan,75.4,normal
-20,laki-laki,81.5,normal
-1,laki-laki,57.9377953954245,normal
-0,laki-laki,42.505442061716,severely stunted
-22,perempuan,87.0,normal
-52,perempuan,117.8,normal
-1,perempuan,45.7457468926946,severely stunted
-60,perempuan,103.1,normal
-1,laki-laki,50.1971767476498,stunted
-45,laki-laki,93.4,stunted
-45,perempuan,113.9,tinggi
-10,laki-laki,67.6,stunted
-28,laki-laki,97.3,normal
-56,laki-laki,106.3,normal
-51,perempuan,95.1,stunted
-28,perempuan,103.4,tinggi
-53,perempuan,90.1,severely stunted
-53,perempuan,91.2,severely stunted
-48,laki-laki,117.4,tinggi
-15,laki-laki,86.0,normal
-50,perempuan,106.8,normal
-29,perempuan,89.6,normal
-32,perempuan,105.0,tinggi
-47,laki-laki,110.2,normal
-1,perempuan,47.424317196563,severely stunted
-46,laki-laki,114.9,tinggi
-1,perempuan,46.1065945693542,severely stunted
-51,laki-laki,103.1,normal
-32,laki-laki,97.7,normal
-11,laki-laki,74.4,normal
-19,perempuan,76.9,normal
-25,laki-laki,98.7,tinggi
-38,laki-laki,99.1,normal
-5,perempuan,75.9,tinggi
-14,perempuan,65.8,severely stunted
-44,laki-laki,95.0,normal
-60,laki-laki,124.8,tinggi
-38,laki-laki,104.0,normal
-39,laki-laki,112.8,tinggi
-31,laki-laki,87.3,normal
-3,laki-laki,68.1,tinggi
-60,perempuan,119.5,normal
-55,laki-laki,117.6,normal
-48,perempuan,109.5,normal
-15,perempuan,77.2,normal
-30,laki-laki,92.1,normal
-47,laki-laki,90.9,stunted
-11,perempuan,61.3,severely stunted
-44,laki-laki,105.9,normal
-51,perempuan,95.9,normal
-57,laki-laki,93.1,severely stunted
-54,laki-laki,93.2,severely stunted
-57,perempuan,96.1,stunted
-40,perempuan,96.0,normal
-5,laki-laki,58.4,severely stunted
-45,laki-laki,87.7,severely stunted
-29,perempuan,86.4,normal
-5,perempuan,59.0,stunted
-53,laki-laki,102.0,normal
-58,laki-laki,98.8,stunted
-54,laki-laki,108.2,normal
-3,laki-laki,66.5,normal
-34,perempuan,82.3,severely stunted
-23,laki-laki,96.4,tinggi
-10,laki-laki,64.2,severely stunted
-6,perempuan,75.6,tinggi
-8,perempuan,61.1,severely stunted
-57,perempuan,100.2,normal
-7,laki-laki,60.4,severely stunted
-15,laki-laki,77.4,normal
-9,perempuan,66.4,normal
-13,perempuan,74.1,normal
-24,laki-laki,94.5,normal
-45,perempuan,86.6,severely stunted
-35,laki-laki,89.4,normal
-41,laki-laki,104.1,normal
-27,laki-laki,97.7,normal
-27,perempuan,83.2,normal
-0,laki-laki,53.1539186600246,normal
-47,laki-laki,106.7,normal
-13,laki-laki,70.1,stunted
-21,laki-laki,72.3,severely stunted
-31,laki-laki,88.3,normal
-24,laki-laki,94.1,normal
-23,perempuan,72.3,severely stunted
-47,laki-laki,115.8,tinggi
-54,laki-laki,97.6,stunted
-48,perempuan,98.9,normal
-43,perempuan,92.3,normal
-60,perempuan,100.9,normal
-18,laki-laki,81.7,normal
-11,perempuan,82.1,tinggi
-57,perempuan,118.0,normal
-19,perempuan,76.3,normal
-37,perempuan,109.5,tinggi
-7,laki-laki,59.2,severely stunted
-11,laki-laki,71.2,normal
-5,perempuan,76.5,tinggi
-3,laki-laki,71.8,tinggi
-44,laki-laki,100.1,normal
-2,perempuan,49.7487144271527,severely stunted
-0,perempuan,45.4772133863454,normal
-26,perempuan,87.1,normal
-49,laki-laki,92.0,stunted
-44,laki-laki,89.1,stunted
-46,laki-laki,95.6,normal
-11,laki-laki,63.9,severely stunted
-17,laki-laki,71.7,severely stunted
-13,laki-laki,67.3,severely stunted
-25,laki-laki,84.9,normal
-60,laki-laki,119.3,normal
-25,laki-laki,81.8,normal
-4,laki-laki,68.0,normal
-26,laki-laki,99.4,tinggi
-22,perempuan,81.7,normal
-15,perempuan,80.8,normal
-25,laki-laki,100.4,tinggi
-10,laki-laki,77.6,normal
-4,laki-laki,68.6,normal
-8,perempuan,73.0,normal
-60,laki-laki,107.0,normal
-0,perempuan,58.3287820069021,tinggi
-24,laki-laki,92.5,normal
-53,laki-laki,106.8,normal
-53,laki-laki,111.4,normal
-13,perempuan,75.7,normal
-10,perempuan,72.2,normal
-51,laki-laki,89.1,severely stunted
-36,perempuan,106.2,normal
-24,laki-laki,93.3,normal
-49,laki-laki,96.3,normal
-13,perempuan,73.6,normal
-14,perempuan,86.0,tinggi
-14,laki-laki,82.8,normal
-58,perempuan,93.2,severely stunted
+58,perempuan,91.7,severely stunted
+43,perempuan,94.0,normal
+52,perempuan,116.4,normal
+50,laki-laki,115.4,normal
+37,laki-laki,108.5,tinggi
+45,perempuan,113.5,normal
+23,laki-laki,90.5,normal
+18,laki-laki,81.0,normal
+29,laki-laki,98.5,normal
+34,laki-laki,81.7,severely stunted
+8,laki-laki,75.5,normal
+60,laki-laki,101.8,normal
+51,perempuan,113.8,normal
+25,perempuan,84.2,normal
+17,laki-laki,86.0,normal
+18,laki-laki,82.1,normal
+5,laki-laki,71.0,normal
+56,perempuan,112.8,normal
+29,laki-laki,90.8,normal
+14,perempuan,81.5,normal
+1,perempuan,59.408398971324,normal
+46,perempuan,109.5,normal
+45,laki-laki,113.8,normal
+26,perempuan,87.2,normal
+51,laki-laki,103.4,normal
+0,laki-laki,50.4546955053293,normal
+14,perempuan,80.3,normal
+50,perempuan,88.7,severely stunted
+41,perempuan,93.7,normal
+40,perempuan,97.0,normal
+54,perempuan,115.2,normal
+49,laki-laki,106.5,normal
+40,laki-laki,107.8,normal
+58,laki-laki,105.1,normal
+25,laki-laki,101.9,tinggi
+50,perempuan,109.2,normal
+42,perempuan,108.1,normal
+21,laki-laki,93.2,normal
+51,perempuan,109.1,normal
+0,perempuan,48.6034556996026,normal
+44,laki-laki,99.3,normal
+7,laki-laki,70.2,normal
+21,perempuan,92.2,normal
+23,perempuan,84.3,normal
+34,perempuan,89.1,normal
+43,perempuan,100.4,normal
+19,laki-laki,81.4,normal
+28,laki-laki,84.1,normal
+26,laki-laki,95.6,normal
+10,laki-laki,60.8,severely stunted
+18,perempuan,70.6,severely stunted
+41,perempuan,90.4,normal
+51,perempuan,114.7,normal
+15,perempuan,77.0,normal
+48,laki-laki,109.2,normal
+4,laki-laki,51.3,severely stunted
+50,laki-laki,113.2,normal
+30,perempuan,90.2,normal
+47,perempuan,107.5,normal
+18,perempuan,81.4,normal
+21,perempuan,93.7,tinggi
+32,laki-laki,99.5,normal
+36,perempuan,99.3,normal
+31,laki-laki,91.3,normal
+38,perempuan,94.9,normal
+50,laki-laki,91.0,severely stunted
+3,perempuan,73.2,tinggi
+2,perempuan,53.2715091523457,normal
+35,laki-laki,98.9,normal
+47,laki-laki,114.2,normal
+60,perempuan,104.4,normal
+13,laki-laki,80.2,normal
+7,perempuan,68.5,normal
+18,laki-laki,84.3,normal
+18,laki-laki,85.6,normal
+34,perempuan,99.6,normal
+41,laki-laki,99.3,normal
+5,laki-laki,72.0,normal
+3,perempuan,65.7,normal
+46,perempuan,110.4,normal
+57,laki-laki,113.4,normal
+57,laki-laki,107.5,normal
+49,laki-laki,90.5,severely stunted
+16,perempuan,79.0,normal
+18,laki-laki,78.2,normal
+47,perempuan,110.1,normal
+45,laki-laki,105.0,normal
+26,perempuan,95.4,normal
+7,laki-laki,72.5,normal
+17,perempuan,83.1,normal
+37,perempuan,89.7,normal
+15,laki-laki,81.9,normal
+32,laki-laki,89.6,normal
+45,laki-laki,96.8,normal
+42,perempuan,102.4,normal
+28,perempuan,97.3,normal
+20,laki-laki,88.7,normal
+20,laki-laki,74.8,severely stunted
+40,laki-laki,104.5,normal
 24,perempuan,94.6,normal
-22,laki-laki,94.3,normal
-26,perempuan,100.5,tinggi
-25,perempuan,73.9,severely stunted
-28,perempuan,93.4,normal
-1,perempuan,46.7183788550118,severely stunted
-24,laki-laki,96.4,tinggi
-2,perempuan,70.3552028589883,tinggi
-35,perempuan,99.0,normal
-46,perempuan,95.7,normal
-56,laki-laki,112.6,normal
-17,perempuan,80.2,normal
-0,laki-laki,54.7406289708451,normal
-19,laki-laki,95.5,tinggi
-22,laki-laki,76.1,severely stunted
-38,laki-laki,103.7,normal
-53,laki-laki,95.4,stunted
-0,laki-laki,58.4995982348595,tinggi
-22,laki-laki,89.6,normal
-20,laki-laki,85.6,normal
-21,laki-laki,94.5,tinggi
-58,perempuan,98.5,stunted
-23,perempuan,89.0,normal
-59,perempuan,103.1,normal
-15,laki-laki,74.4,normal
-41,perempuan,91.0,normal
-46,perempuan,85.2,severely stunted
-42,perempuan,100.5,normal
-41,perempuan,111.0,tinggi
-54,perempuan,114.1,normal
-7,laki-laki,62.3,severely stunted
-24,laki-laki,86.8,normal
-20,perempuan,76.8,normal
-54,laki-laki,92.3,severely stunted
-17,perempuan,79.8,normal
-33,laki-laki,88.9,normal
-31,laki-laki,97.5,normal
-38,laki-laki,100.9,normal
-36,perempuan,108.9,tinggi
-37,perempuan,105.1,normal
-29,laki-laki,94.1,normal
-59,laki-laki,125.7,tinggi
-16,laki-laki,87.5,normal
-58,laki-laki,110.0,normal
-48,perempuan,108.3,normal
-23,laki-laki,92.8,normal
-44,perempuan,104.2,normal
-2,perempuan,53.1008871675312,normal
-52,laki-laki,96.5,stunted
-27,laki-laki,96.0,normal
-16,perempuan,87.0,normal
-28,perempuan,77.1,severely stunted
-20,laki-laki,87.6,normal
-14,perempuan,66.4,severely stunted
-48,laki-laki,88.1,severely stunted
-12,perempuan,73.2,normal
-21,laki-laki,90.3,normal
-52,laki-laki,117.0,normal
-24,laki-laki,77.5,severely stunted
-7,perempuan,56.5,severely stunted
-53,perempuan,91.6,severely stunted
-56,perempuan,91.7,severely stunted
-46,laki-laki,112.9,normal
-49,laki-laki,104.1,normal
-7,perempuan,58.8,severely stunted
-52,laki-laki,102.9,normal
-12,laki-laki,68.3,severely stunted
-15,laki-laki,77.8,normal
-45,perempuan,103.4,normal
-41,laki-laki,98.8,normal
-9,perempuan,79.7,tinggi
-22,laki-laki,86.9,normal
-26,perempuan,89.7,normal
-30,laki-laki,92.4,normal
-40,perempuan,112.2,tinggi
-15,perempuan,87.6,tinggi
-19,perempuan,85.1,normal
-43,perempuan,115.9,tinggi
-44,laki-laki,108.0,normal
-8,laki-laki,82.1,tinggi
+13,laki-laki,67.3,severely stunted
+55,laki-laki,99.4,normal
+9,perempuan,74.5,normal
+13,perempuan,71.1,normal
+29,laki-laki,88.8,normal
+6,perempuan,76.9,tinggi
+46,laki-laki,97.1,normal
+3,perempuan,70.2,tinggi
+18,perempuan,75.6,normal
+16,perempuan,83.2,normal
+28,laki-laki,88.1,normal
+24,perempuan,93.0,normal
 35,perempuan,96.4,normal
-17,perempuan,87.7,normal
-22,perempuan,91.0,normal
-9,perempuan,60.0,severely stunted
-51,laki-laki,97.0,normal
-51,perempuan,117.6,normal
-42,laki-laki,89.2,stunted
-16,laki-laki,92.5,tinggi
-49,perempuan,90.5,stunted
-39,laki-laki,84.9,severely stunted
-17,perempuan,73.0,stunted
-12,perempuan,69.9,normal
-16,laki-laki,69.1,severely stunted
-11,laki-laki,84.6,tinggi
-58,perempuan,116.8,normal
-55,perempuan,113.6,normal
-25,perempuan,96.1,normal
-49,perempuan,109.9,normal
-38,laki-laki,84.0,severely stunted
-3,perempuan,64.7,normal
-57,perempuan,112.5,normal
-53,laki-laki,89.9,severely stunted
-11,perempuan,79.5,normal
-18,perempuan,79.3,normal
-43,laki-laki,89.0,stunted
-19,laki-laki,95.4,tinggi
-32,laki-laki,76.6,severely stunted
-54,perempuan,111.3,normal
-2,laki-laki,68.714875526613,tinggi
-55,laki-laki,117.0,normal
-18,laki-laki,92.6,tinggi
-49,laki-laki,101.8,normal
-46,laki-laki,98.3,normal
-41,perempuan,89.1,stunted
-25,laki-laki,74.9,severely stunted
-45,perempuan,91.7,stunted
-37,perempuan,91.0,normal
-54,laki-laki,101.6,normal
-1,perempuan,55.6573890282637,normal
-51,laki-laki,109.1,normal
-36,perempuan,103.3,normal
-46,laki-laki,102.6,normal
-40,perempuan,101.1,normal
-50,perempuan,111.3,normal
-32,perempuan,88.0,normal
-51,perempuan,99.0,normal
-5,perempuan,78.5,tinggi
-23,perempuan,77.3,stunted
-32,laki-laki,82.0,severely stunted
-43,perempuan,112.9,tinggi
-57,perempuan,123.1,tinggi
-22,perempuan,87.7,normal
-37,perempuan,84.3,stunted
-11,perempuan,75.7,normal
-37,laki-laki,84.5,severely stunted
-4,laki-laki,72.0,tinggi
-36,laki-laki,97.4,normal
-18,perempuan,89.1,normal
-34,laki-laki,93.3,normal
-1,perempuan,44.3439803322146,severely stunted
-51,perempuan,91.5,stunted
-42,laki-laki,105.6,normal
-0,laki-laki,56.3052648999112,tinggi
-38,perempuan,87.8,stunted
-45,perempuan,106.7,normal
-29,laki-laki,94.5,normal
-52,perempuan,99.1,normal
-2,laki-laki,58.3251846101321,normal
-0,laki-laki,45.8017531550047,stunted
-58,laki-laki,124.5,tinggi
-60,laki-laki,119.1,normal
-16,perempuan,72.2,stunted
-6,laki-laki,65.8,normal
-16,perempuan,73.1,normal
-3,laki-laki,62.0,normal
-35,laki-laki,81.6,severely stunted
-42,laki-laki,108.3,normal
-46,perempuan,116.6,tinggi
-24,perempuan,76.3,severely stunted
-22,laki-laki,74.4,severely stunted
-43,perempuan,88.7,stunted
-45,laki-laki,101.9,normal
-54,perempuan,92.0,severely stunted
-21,perempuan,96.5,tinggi
-27,perempuan,97.3,normal
-39,perempuan,107.8,normal
-57,laki-laki,90.4,severely stunted
-46,laki-laki,107.2,normal
-19,perempuan,73.0,stunted
-35,laki-laki,101.9,normal
-5,laki-laki,61.9,normal
-25,laki-laki,84.9,normal
-21,laki-laki,73.4,severely stunted
-31,perempuan,87.8,normal
-29,perempuan,103.8,tinggi
-7,laki-laki,78.0,tinggi
-15,perempuan,79.9,normal
-56,laki-laki,95.6,stunted
-29,perempuan,93.4,normal
-37,laki-laki,82.8,severely stunted
-3,laki-laki,66.7,normal
-21,laki-laki,81.6,normal
-3,perempuan,57.2,normal
-17,laki-laki,83.2,normal
-33,perempuan,82.3,stunted
-28,laki-laki,92.5,normal
-56,perempuan,91.0,severely stunted
-23,perempuan,74.9,severely stunted
-29,perempuan,75.9,severely stunted
-23,laki-laki,85.4,normal
-21,laki-laki,86.5,normal
-46,laki-laki,106.3,normal
-11,perempuan,79.7,normal
-35,perempuan,101.0,normal
-38,laki-laki,111.9,tinggi
-40,laki-laki,104.4,normal
-31,laki-laki,88.4,normal
-50,perempuan,102.0,normal
-51,laki-laki,89.8,severely stunted
-25,perempuan,93.4,normal
-37,perempuan,110.8,tinggi
-34,laki-laki,79.1,severely stunted
-31,perempuan,88.7,normal
-29,laki-laki,85.2,normal
-34,laki-laki,111.0,tinggi
-16,perempuan,91.5,tinggi
-54,perempuan,90.4,severely stunted
-60,perempuan,113.9,normal
-24,laki-laki,95.7,normal
-20,laki-laki,79.0,normal
-50,laki-laki,117.6,tinggi
-58,perempuan,118.9,normal
-42,laki-laki,94.6,normal
-31,perempuan,97.4,normal
-22,laki-laki,89.1,normal
-29,perempuan,81.6,stunted
-18,laki-laki,73.7,severely stunted
-31,laki-laki,79.1,severely stunted
-10,laki-laki,83.9,tinggi
-4,laki-laki,53.4,severely stunted
-58,perempuan,120.0,normal
-46,laki-laki,110.2,normal
-49,laki-laki,115.5,normal
-7,perempuan,76.3,tinggi
-60,perempuan,124.6,tinggi
-0,laki-laki,47.6882063788281,normal
-7,laki-laki,64.9,normal
-8,laki-laki,80.3,tinggi
-26,laki-laki,89.5,normal
-42,laki-laki,102.1,normal
+16,perempuan,77.1,normal
+52,perempuan,109.4,normal
+8,perempuan,69.8,normal
+25,laki-laki,90.3,normal
+51,laki-laki,99.3,normal
+31,laki-laki,87.9,normal
+19,perempuan,90.8,tinggi
+36,perempuan,97.6,normal
+46,laki-laki,110.3,normal
+43,perempuan,99.1,normal
+52,perempuan,101.6,normal
+51,laki-laki,102.7,normal
+46,perempuan,116.5,tinggi
+10,laki-laki,72.7,normal
+9,perempuan,76.6,normal
+0,perempuan,55.6699109179223,tinggi
+55,perempuan,113.5,normal
+51,laki-laki,103.7,normal
+50,laki-laki,110.8,normal
+31,laki-laki,101.0,normal
+38,perempuan,101.0,normal
+50,laki-laki,115.5,normal
+18,laki-laki,81.7,normal
+53,laki-laki,115.7,normal
+37,laki-laki,91.6,normal
+11,perempuan,83.4,tinggi
+21,perempuan,88.9,normal
+59,perempuan,125.8,tinggi
+14,perempuan,82.6,normal
+3,laki-laki,71.8,tinggi
+36,laki-laki,91.0,normal
+36,perempuan,100.8,normal
 11,laki-laki,76.9,normal
-47,perempuan,100.0,normal
-31,laki-laki,97.5,normal
-31,perempuan,83.4,stunted
-57,laki-laki,124.9,tinggi
-31,laki-laki,99.6,normal
-2,perempuan,56.5302477884411,normal
-43,laki-laki,89.8,stunted
-24,laki-laki,97.3,tinggi
-25,laki-laki,86.4,normal
-48,laki-laki,109.3,normal
-57,perempuan,97.2,stunted
-6,laki-laki,65.1,normal
-53,laki-laki,116.5,normal
-39,laki-laki,105.0,normal
-11,laki-laki,80.5,normal
-56,laki-laki,91.0,severely stunted
-29,perempuan,100.4,tinggi
-52,laki-laki,98.7,normal
-28,perempuan,78.6,severely stunted
-49,laki-laki,87.5,severely stunted
-37,perempuan,105.5,normal
-55,perempuan,95.1,stunted
-22,perempuan,86.4,normal
-15,perempuan,64.0,severely stunted
-25,perempuan,90.4,normal
-41,laki-laki,88.9,stunted
-59,perempuan,93.2,severely stunted
-57,laki-laki,123.7,tinggi
-10,perempuan,83.8,tinggi
-32,laki-laki,85.9,stunted
-3,laki-laki,64.3,normal
-46,perempuan,95.2,normal
-22,perempuan,83.1,normal
-8,perempuan,65.3,normal
-20,perempuan,95.9,tinggi
-34,perempuan,104.8,normal
-12,laki-laki,67.4,severely stunted
-3,perempuan,56.6,normal
-6,laki-laki,54.8,severely stunted
-51,perempuan,96.9,normal
-10,perempuan,78.6,normal
-42,perempuan,95.3,normal
-60,laki-laki,112.2,normal
-10,perempuan,64.5,stunted
-27,laki-laki,84.1,normal
-18,perempuan,81.0,normal
-28,perempuan,95.3,normal
-50,laki-laki,96.5,normal
-5,laki-laki,66.5,normal
-41,laki-laki,106.3,normal
-5,perempuan,68.7,normal
-58,perempuan,111.8,normal
-1,laki-laki,50.0109742811262,stunted
-37,laki-laki,83.0,severely stunted
-30,perempuan,95.4,normal
-45,laki-laki,115.5,tinggi
-4,perempuan,71.0,tinggi
-39,laki-laki,102.0,normal
-1,perempuan,62.0390728252621,tinggi
-23,perempuan,99.4,tinggi
-30,perempuan,104.8,tinggi
-14,perempuan,69.2,stunted
-46,perempuan,93.7,normal
-14,perempuan,80.6,normal
-40,laki-laki,99.1,normal
-38,perempuan,84.4,severely stunted
-23,laki-laki,100.2,tinggi
-54,perempuan,116.6,normal
-2,laki-laki,59.6284013036633,normal
-23,laki-laki,81.2,normal
-23,perempuan,91.4,normal
-46,perempuan,112.2,normal
+55,laki-laki,119.9,normal
+51,perempuan,107.4,normal
+7,perempuan,56.4,severely stunted
+55,perempuan,116.5,normal
+17,laki-laki,87.6,normal
+50,perempuan,98.2,normal
+24,perempuan,92.3,normal
+11,perempuan,73.9,normal
+12,perempuan,78.9,normal
+22,perempuan,78.6,normal
+3,laki-laki,67.5,normal
+30,perempuan,99.8,normal
+40,perempuan,92.7,normal
+20,laki-laki,72.1,severely stunted
+21,laki-laki,89.8,normal
+11,perempuan,80.6,tinggi
+53,perempuan,111.6,normal
+46,perempuan,99.3,normal
+56,perempuan,115.6,normal
+42,perempuan,101.6,normal
+13,perempuan,82.9,normal
+59,perempuan,99.7,normal
+10,laki-laki,75.6,normal
+49,laki-laki,115.0,normal
+28,perempuan,87.9,normal
+57,laki-laki,103.2,normal
+13,perempuan,79.4,normal
+30,laki-laki,100.7,normal
+15,perempuan,78.5,normal
+13,laki-laki,83.6,normal
+28,laki-laki,86.2,normal
+42,perempuan,112.1,tinggi
+8,laki-laki,73.9,normal
+35,laki-laki,101.1,normal
+54,laki-laki,115.9,normal
+1,perempuan,53.2131106000069,normal
+51,laki-laki,109.6,normal
+48,laki-laki,103.3,normal
+52,laki-laki,110.0,normal
+60,laki-laki,118.2,normal
+57,perempuan,109.1,normal
+17,laki-laki,94.0,tinggi
+45,laki-laki,102.6,normal
+11,perempuan,78.7,normal
+39,perempuan,104.1,normal
+38,laki-laki,96.8,normal
+26,perempuan,74.9,severely stunted
+11,perempuan,76.2,normal
+42,perempuan,99.7,normal
+6,perempuan,66.1,normal
+3,perempuan,62.0,normal
+2,laki-laki,55.7427747442732,normal
+12,perempuan,75.3,normal
+48,laki-laki,106.1,normal
+31,perempuan,98.7,normal
+54,perempuan,114.5,normal
+52,perempuan,109.9,normal
+39,laki-laki,97.8,normal
+60,laki-laki,119.4,normal
+59,perempuan,118.6,normal
+36,laki-laki,95.5,normal
+28,perempuan,89.4,normal
+54,perempuan,118.5,normal
+23,perempuan,73.8,severely stunted
+5,perempuan,67.9,normal
+31,perempuan,85.9,normal
+34,laki-laki,99.5,normal
+34,perempuan,99.0,normal
+15,laki-laki,76.9,normal
+57,perempuan,113.1,normal
+29,laki-laki,97.5,normal
+5,laki-laki,71.0,normal
+50,laki-laki,99.3,normal
+59,perempuan,113.4,normal
+60,laki-laki,123.4,normal
+58,perempuan,102.4,normal
+39,perempuan,83.1,severely stunted
+34,laki-laki,81.9,severely stunted
+52,laki-laki,105.5,normal
+19,laki-laki,82.2,normal
+37,laki-laki,83.6,severely stunted
+14,perempuan,66.7,severely stunted
+26,perempuan,82.2,normal
+44,perempuan,111.4,normal
+38,perempuan,102.3,normal
+33,perempuan,104.5,tinggi
+52,laki-laki,107.8,normal
+54,perempuan,102.9,normal
+52,perempuan,118.2,normal
+54,perempuan,102.0,normal
+35,laki-laki,93.3,normal
+6,perempuan,69.4,normal
+40,laki-laki,95.0,normal
+41,laki-laki,97.0,normal
+51,perempuan,112.1,normal
+2,laki-laki,62.3873429249664,normal
+21,laki-laki,87.6,normal
+31,laki-laki,93.5,normal
+5,laki-laki,64.6,normal
+28,perempuan,94.7,normal
+26,perempuan,89.8,normal
+35,laki-laki,101.1,normal
+12,perempuan,79.7,normal
+22,perempuan,80.7,normal
+60,perempuan,119.6,normal
+43,laki-laki,101.3,normal
+3,perempuan,63.4,normal
+34,laki-laki,102.9,normal
+29,perempuan,85.7,normal
+1,laki-laki,45.5709884993358,severely stunted
+59,laki-laki,119.7,normal
+54,perempuan,121.2,tinggi
+43,laki-laki,95.9,normal
+21,perempuan,90.2,normal
+60,laki-laki,117.8,normal
+39,perempuan,100.9,normal
+20,perempuan,80.3,normal
+55,laki-laki,93.6,severely stunted
+26,laki-laki,77.8,severely stunted
+1,perempuan,66.2527789998481,tinggi
+7,laki-laki,80.7,tinggi
+58,perempuan,115.7,normal
+52,perempuan,91.2,severely stunted
+53,perempuan,104.6,normal
+38,perempuan,89.9,normal
+49,perempuan,111.4,normal
+28,laki-laki,77.3,severely stunted
+58,laki-laki,119.1,normal
+17,perempuan,81.3,normal
+11,laki-laki,72.2,normal
+47,laki-laki,95.6,normal
+59,laki-laki,118.5,normal
+56,perempuan,115.9,normal
+32,perempuan,88.1,normal
+20,laki-laki,87.7,normal
+13,laki-laki,82.2,normal
+7,perempuan,65.3,normal
+46,laki-laki,101.2,normal
+54,perempuan,111.4,normal
+22,laki-laki,89.2,normal
+0,laki-laki,55.4325960267148,normal
+53,laki-laki,111.3,normal
+31,perempuan,89.6,normal
+29,laki-laki,91.6,normal
+3,laki-laki,64.0,normal
+26,perempuan,91.3,normal
+47,perempuan,101.2,normal
+52,perempuan,109.5,normal
+58,perempuan,123.6,tinggi
+45,perempuan,99.8,normal
+25,laki-laki,86.5,normal
+2,laki-laki,55.7166333097724,normal
+49,perempuan,103.4,normal
+23,laki-laki,87.7,normal
+50,perempuan,96.5,normal
+59,laki-laki,106.3,normal
+0,perempuan,59.5754184920639,tinggi
+30,perempuan,101.7,tinggi
+35,laki-laki,96.9,normal
+27,laki-laki,82.7,stunted
+46,perempuan,112.6,normal
+25,laki-laki,85.0,normal
+10,perempuan,79.9,tinggi
+52,laki-laki,110.7,normal
+18,perempuan,77.9,normal
+4,perempuan,61.0,normal
+45,perempuan,111.5,normal
+31,perempuan,90.2,normal
+33,perempuan,87.4,normal
+12,laki-laki,79.5,normal
+25,perempuan,83.1,normal
+15,laki-laki,85.0,normal
+15,laki-laki,78.5,normal
+58,laki-laki,92.3,severely stunted
+40,perempuan,104.4,normal
+7,laki-laki,73.4,normal
+21,laki-laki,92.3,normal
+51,perempuan,101.8,normal
+25,laki-laki,75.8,severely stunted
+18,perempuan,83.9,normal
+31,laki-laki,80.1,severely stunted
+1,perempuan,53.4912789239334,normal
+21,perempuan,73.4,severely stunted
+47,perempuan,105.9,normal
+41,laki-laki,108.9,normal
+23,perempuan,85.5,normal
+38,perempuan,96.9,normal
+42,perempuan,92.8,normal
+29,laki-laki,94.6,normal
+10,laki-laki,76.8,normal
+35,perempuan,98.2,normal
+54,perempuan,98.9,normal
+45,laki-laki,88.0,severely stunted
+11,laki-laki,62.6,severely stunted
+14,perempuan,81.0,normal
+15,laki-laki,69.4,severely stunted
+3,perempuan,61.9,normal
+52,perempuan,101.6,normal
+16,perempuan,74.5,normal
+8,perempuan,67.3,normal
+3,perempuan,60.4,normal
+49,perempuan,101.7,normal
+45,laki-laki,104.7,normal
+13,laki-laki,77.9,normal
+8,perempuan,70.5,normal
+42,laki-laki,97.3,normal
+49,perempuan,86.4,severely stunted
+19,laki-laki,79.2,normal
+50,perempuan,100.6,normal
+15,perempuan,67.4,severely stunted
+20,perempuan,79.4,normal
+52,laki-laki,105.8,normal
+29,laki-laki,100.5,normal
+4,perempuan,61.2,normal
+1,perempuan,50.6025166102716,normal
+22,perempuan,82.0,normal
+1,perempuan,59.8125601738378,tinggi
+22,perempuan,96.8,tinggi
+23,laki-laki,83.4,normal
+2,laki-laki,56.8671237234707,normal
+56,perempuan,111.0,normal
+53,laki-laki,117.2,normal
+12,laki-laki,82.1,normal
+58,laki-laki,121.4,normal
+27,perempuan,97.7,normal
+11,perempuan,70.0,normal
+13,perempuan,80.4,normal
+14,perempuan,81.9,normal
+30,perempuan,91.6,normal
+10,perempuan,64.0,severely stunted
+58,perempuan,114.8,normal
+19,laki-laki,90.7,normal
+33,laki-laki,93.8,normal
+43,laki-laki,83.0,severely stunted
+52,laki-laki,101.4,normal
+26,perempuan,83.6,normal
+21,perempuan,89.9,normal
+3,perempuan,71.3,tinggi
+16,laki-laki,70.0,severely stunted
+11,laki-laki,75.3,normal
+34,laki-laki,89.4,normal
+24,perempuan,88.3,normal
+49,laki-laki,96.4,normal
+43,laki-laki,109.4,normal
+36,laki-laki,102.1,normal
+36,laki-laki,103.4,normal
+12,perempuan,70.7,normal
+46,laki-laki,111.7,normal
+39,perempuan,100.7,normal
+44,laki-laki,107.9,normal
+25,perempuan,97.4,tinggi
+35,laki-laki,92.3,normal
+20,perempuan,83.1,normal
+13,laki-laki,74.8,normal
+17,laki-laki,78.2,normal
+49,laki-laki,97.7,normal
+29,perempuan,87.3,normal
+16,laki-laki,91.0,tinggi
+51,laki-laki,108.4,normal
+40,laki-laki,92.3,normal
+55,perempuan,102.1,normal
+52,perempuan,118.3,normal
+28,perempuan,94.8,normal
+26,laki-laki,99.5,tinggi
+41,laki-laki,108.5,normal
+49,laki-laki,119.1,tinggi
+55,perempuan,98.0,normal
+45,perempuan,110.2,normal
+25,laki-laki,93.6,normal
+14,laki-laki,84.5,normal
+21,perempuan,81.4,normal
+20,perempuan,73.3,severely stunted
+8,laki-laki,80.2,tinggi
+29,perempuan,91.3,normal
+15,laki-laki,87.8,tinggi
+47,laki-laki,105.5,normal
+5,perempuan,65.1,normal
+23,laki-laki,83.1,normal
+40,laki-laki,101.0,normal
+30,perempuan,79.2,severely stunted
+50,perempuan,95.9,normal
+22,perempuan,78.7,normal
+20,laki-laki,83.0,normal
+43,laki-laki,105.6,normal
+24,laki-laki,90.7,normal
+23,laki-laki,84.8,normal
+41,laki-laki,106.5,normal
+54,perempuan,100.9,normal
+11,laki-laki,77.5,normal
+54,laki-laki,104.6,normal
+50,perempuan,111.6,normal
+52,laki-laki,91.7,severely stunted
+14,perempuan,88.8,tinggi
+53,perempuan,113.5,normal
+34,perempuan,101.1,normal
+45,laki-laki,115.2,tinggi
+3,perempuan,57.8,normal
+21,perempuan,89.0,normal
+33,laki-laki,102.8,normal
+2,perempuan,57.4127886182813,normal
+37,laki-laki,105.0,normal
+23,laki-laki,85.4,normal
+3,laki-laki,70.0,tinggi
+43,perempuan,99.8,normal
+39,laki-laki,90.7,normal
+13,perempuan,84.7,tinggi
+7,perempuan,59.3,severely stunted
+53,perempuan,108.7,normal
+40,laki-laki,97.6,normal
+3,perempuan,58.5,normal
+42,laki-laki,107.4,normal
+22,perempuan,93.5,normal
+22,perempuan,91.2,normal
+33,laki-laki,88.1,normal
+53,laki-laki,90.2,severely stunted
+55,laki-laki,91.4,severely stunted
+59,perempuan,102.1,normal
+37,perempuan,100.5,normal
+49,laki-laki,102.3,normal
+53,laki-laki,102.1,normal
+17,laki-laki,80.1,normal
+60,laki-laki,94.5,severely stunted
+49,laki-laki,103.2,normal
+44,perempuan,105.9,normal
+0,perempuan,51.8480984728409,normal
+42,perempuan,92.3,normal
+49,perempuan,100.3,normal
+21,laki-laki,87.9,normal
+19,laki-laki,89.4,normal
+25,laki-laki,94.0,normal
+4,laki-laki,60.2,normal
+29,perempuan,95.8,normal
+32,perempuan,102.0,normal
+10,laki-laki,69.1,normal
+45,laki-laki,94.2,normal
+25,laki-laki,90.2,normal
+29,perempuan,94.0,normal
+48,perempuan,95.3,normal
+39,laki-laki,85.8,severely stunted
+13,perempuan,76.9,normal
+45,laki-laki,110.4,normal
+56,laki-laki,105.5,normal
+17,perempuan,92.9,tinggi
+23,laki-laki,90.7,normal
+16,perempuan,81.0,normal
+37,perempuan,88.7,normal
+4,perempuan,52.8,severely stunted
+54,perempuan,116.8,normal
+22,laki-laki,82.9,normal
+25,perempuan,90.6,normal
+54,perempuan,99.5,normal
+18,laki-laki,73.0,severely stunted
+46,perempuan,96.3,normal
+38,laki-laki,103.0,normal
+24,perempuan,91.8,normal
+32,perempuan,98.3,normal
+1,laki-laki,54.6644366473752,normal
+57,laki-laki,91.8,severely stunted
+34,laki-laki,96.3,normal
+32,perempuan,92.3,normal
+35,perempuan,101.9,normal
+35,perempuan,98.6,normal
+20,perempuan,68.3,severely stunted
+11,laki-laki,77.4,normal
+16,perempuan,75.6,normal
+29,perempuan,85.3,normal
+47,laki-laki,109.3,normal
+53,laki-laki,103.7,normal
+24,laki-laki,92.6,normal
+46,perempuan,93.3,normal
+42,laki-laki,93.6,normal
+51,perempuan,115.1,normal
+35,laki-laki,89.1,normal
+56,laki-laki,91.4,severely stunted
+59,perempuan,121.8,normal
+12,laki-laki,82.2,normal
+25,perempuan,89.3,normal
+10,perempuan,74.4,normal
+4,perempuan,52.9,severely stunted
+49,laki-laki,100.0,normal
+26,laki-laki,77.9,severely stunted
+47,perempuan,85.2,severely stunted
+59,perempuan,117.8,normal
+24,laki-laki,87.6,normal
+33,perempuan,103.3,normal
